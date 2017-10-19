@@ -1,0 +1,5 @@
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\bin\Debug\Sharp7.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\bin\Debug\Sharp7.pdb
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.pdb

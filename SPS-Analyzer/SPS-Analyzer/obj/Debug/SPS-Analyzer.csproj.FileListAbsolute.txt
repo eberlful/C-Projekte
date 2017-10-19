@@ -1,0 +1,14 @@
+c:\users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.exe.config
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.exe
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.pdb
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.Design.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.dll
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.pdb
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Form1.resources
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Properties.Resources.resources
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.csproj.GenerateResource.Cache
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.exe
+C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.pdb

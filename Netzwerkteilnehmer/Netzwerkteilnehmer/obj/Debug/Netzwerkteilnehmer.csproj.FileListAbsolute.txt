@@ -1,0 +1,12 @@
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\Netzwerkteilnehmer.exe.config
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\Netzwerkteilnehmer.exe
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\Netzwerkteilnehmer.pdb
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\MetroFramework.Design.dll
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\MetroFramework.dll
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\bin\Debug\MetroFramework.Fonts.dll
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.csprojResolveAssemblyReference.cache
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.Form1.resources
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.Properties.Resources.resources
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.csproj.GenerateResource.Cache
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.exe
+E:\ARP\Netzwerkteilnehmer\Netzwerkteilnehmer\obj\Debug\Netzwerkteilnehmer.pdb

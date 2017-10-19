@@ -1,0 +1,9 @@
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\bin\Debug\Prüfungsdownlaoder.exe.config
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\bin\Debug\Prüfungsdownlaoder.exe
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\bin\Debug\Prüfungsdownlaoder.pdb
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.csprojResolveAssemblyReference.cache
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.Form1.resources
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.Properties.Resources.resources
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.csproj.GenerateResource.Cache
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.exe
+E:\Prüfungsdownlaoder\Prüfungsdownlaoder\obj\Debug\Prüfungsdownlaoder.pdb
