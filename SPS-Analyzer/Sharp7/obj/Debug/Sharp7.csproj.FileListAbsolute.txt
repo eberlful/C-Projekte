@@ -3,3 +3,9 @@ C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\bin\Debu
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.csprojResolveAssemblyReference.cache
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.dll
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\bin\Debug\Sharp7.dll.config
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\bin\Debug\Sharp7.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\bin\Debug\Sharp7.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.csprojResolveAssemblyReference.cache
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.pdb

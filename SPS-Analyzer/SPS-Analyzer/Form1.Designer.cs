@@ -43,6 +43,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.metroTabControl1 = new MetroFramework.Controls.MetroTabControl();
             this.metroTabPage1 = new MetroFramework.Controls.MetroTabPage();
+            this.chckUeberwachung = new System.Windows.Forms.CheckBox();
             this.txtBit = new MetroFramework.Controls.MetroTextBox();
             this.btnEintrag = new MetroFramework.Controls.MetroButton();
             this.txtAdresse = new MetroFramework.Controls.MetroTextBox();
@@ -211,6 +212,7 @@
             this.btnCPUStop.TabIndex = 11;
             this.btnCPUStop.Text = "Stop";
             this.btnCPUStop.UseSelectable = true;
+            this.btnCPUStop.Click += new System.EventHandler(this.btnCPUStop_Click);
             // 
             // metroLabel5
             // 
@@ -229,6 +231,7 @@
             this.lblStatus.Size = new System.Drawing.Size(83, 19);
             this.lblStatus.TabIndex = 13;
             this.lblStatus.Text = "metroLabel6";
+            this.lblStatus.Click += new System.EventHandler(this.lblStatus_Click);
             // 
             // btnCPURun
             // 
@@ -238,6 +241,7 @@
             this.btnCPURun.TabIndex = 14;
             this.btnCPURun.Text = "Run";
             this.btnCPURun.UseSelectable = true;
+            this.btnCPURun.Click += new System.EventHandler(this.btnCPURun_Click);
             // 
             // panel1
             // 
@@ -260,6 +264,7 @@
             // 
             // metroTabPage1
             // 
+            this.metroTabPage1.Controls.Add(this.chckUeberwachung);
             this.metroTabPage1.Controls.Add(this.txtBit);
             this.metroTabPage1.Controls.Add(this.btnEintrag);
             this.metroTabPage1.Controls.Add(this.txtAdresse);
@@ -277,6 +282,16 @@
             this.metroTabPage1.VerticalScrollbarBarColor = true;
             this.metroTabPage1.VerticalScrollbarHighlightOnWheel = false;
             this.metroTabPage1.VerticalScrollbarSize = 10;
+            // 
+            // chckUeberwachung
+            // 
+            this.chckUeberwachung.AutoSize = true;
+            this.chckUeberwachung.Location = new System.Drawing.Point(20, 86);
+            this.chckUeberwachung.Name = "chckUeberwachung";
+            this.chckUeberwachung.Size = new System.Drawing.Size(93, 17);
+            this.chckUeberwachung.TabIndex = 8;
+            this.chckUeberwachung.Text = "Überwachung";
+            this.chckUeberwachung.UseVisualStyleBackColor = true;
             // 
             // txtBit
             // 
@@ -526,6 +541,7 @@
         private System.Windows.Forms.ColumnHeader adresse;
         private System.Windows.Forms.ColumnHeader bit;
         private MetroFramework.Controls.MetroButton btnThreadingStop;
+        private System.Windows.Forms.CheckBox chckUeberwachung;
     }
 }
 

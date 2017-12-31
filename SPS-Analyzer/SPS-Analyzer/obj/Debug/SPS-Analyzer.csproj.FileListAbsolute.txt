@@ -12,3 +12,20 @@ C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\ob
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.csproj.GenerateResource.Cache
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.exe
 C:\Users\test\documents\visual studio 2015\Projects\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.exe.config
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.exe
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.exe
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.Design.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.dll
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.pdb
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Form1.resources
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Properties.Resources.resources
+C:\Users\inst6491\Desktop\Neuer Ordner\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.csproj.GenerateResource.Cache
+F:\26.10.17\SPS-Analyzer\SPS-Analyzer\bin\Debug\SPS-Analyzer.exe.config
+F:\26.10.17\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.exe
+F:\26.10.17\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS-Analyzer.pdb

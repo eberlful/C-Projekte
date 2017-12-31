@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SPS_Analyzer.Properties {
+namespace Sharp7.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -32,30 +32,6 @@ namespace SPS_Analyzer.Properties {
             }
             set {
                 this["ip"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int rack {
-            get {
-                return ((int)(this["rack"]));
-            }
-            set {
-                this["rack"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public int slot {
-            get {
-                return ((int)(this["slot"]));
-            }
-            set {
-                this["slot"] = value;
             }
         }
     }
