@@ -59,6 +59,7 @@
             this.wert = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnThreadStart = new MetroFramework.Controls.MetroButton();
             this.btnThreadingStop = new MetroFramework.Controls.MetroButton();
+            this.btnPLCScan = new MetroFramework.Controls.MetroButton();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.metroTabPage2.SuspendLayout();
@@ -103,6 +104,7 @@
             this.txtIP.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtIP.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             this.txtIP.TextChanged += new System.EventHandler(this.txtIP_TextChanged);
+            this.txtIP.Click += new System.EventHandler(this.txtIP_Click);
             // 
             // metroLabel3
             // 
@@ -282,6 +284,7 @@
             this.metroTabPage1.VerticalScrollbarBarColor = true;
             this.metroTabPage1.VerticalScrollbarHighlightOnWheel = false;
             this.metroTabPage1.VerticalScrollbarSize = 10;
+            this.metroTabPage1.Click += new System.EventHandler(this.metroTabPage1_Click);
             // 
             // chckUeberwachung
             // 
@@ -476,11 +479,22 @@
             this.btnThreadingStop.UseSelectable = true;
             this.btnThreadingStop.Click += new System.EventHandler(this.btnThreadingStop_Click);
             // 
+            // btnPLCScan
+            // 
+            this.btnPLCScan.Location = new System.Drawing.Point(319, 109);
+            this.btnPLCScan.Name = "btnPLCScan";
+            this.btnPLCScan.Size = new System.Drawing.Size(75, 23);
+            this.btnPLCScan.TabIndex = 19;
+            this.btnPLCScan.Text = "PLC Scan";
+            this.btnPLCScan.UseSelectable = true;
+            this.btnPLCScan.Click += new System.EventHandler(this.btnPLCScan_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(890, 623);
+            this.Controls.Add(this.btnPLCScan);
             this.Controls.Add(this.btnThreadingStop);
             this.Controls.Add(this.btnThreadStart);
             this.Controls.Add(this.metroTabControl1);
@@ -542,6 +556,7 @@
         private System.Windows.Forms.ColumnHeader bit;
         private MetroFramework.Controls.MetroButton btnThreadingStop;
         private System.Windows.Forms.CheckBox chckUeberwachung;
+        private MetroFramework.Controls.MetroButton btnPLCScan;
     }
 }
 

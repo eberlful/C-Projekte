@@ -74,6 +74,7 @@
 <a href="1142/1142KS16.pdf" target="_new">
 <a href="1142/1142KSL16.pdf" target="_new">
 <a href="1142/1142KS17.pdf" target="_new">
+<a href="1142/1142KSL17.pdf" target="_new">
 <a href="1144/1144HK2010.pdf" target="_new">
 <a href="1144/1144HKML2010.pdf" target="_new">
 <a href="1145/1145HK2012.pdf" target="_new">
@@ -233,6 +234,9 @@
 <a href="1608/1608SS2013.pdf" target="_new">
 <a href="1608/08_WS1314.pdf" target="_new">
 <a href="1609/1609HK2014.pdf" target="_new">
+<a href="1609/1609KL25211_ws_2015_2016.pdf" target="_new">
+<a href="1609/1609KL25211_ss_2016.pdf" target="_new">
+<a href="1609/1609KL25211_ss_2017.pdf" target="_new">
 <a href="1612/Studientag00.pdf" target="_new">
 <a href="1612/Studientag_2005.pdf" target="_new">
 <a href="1612/1612NK2000.pdf" target="_new">
@@ -437,6 +441,8 @@
 <a href="1661/1661HK2013.pdf" target="_new">
 <a href="1661/1661HK2015.pdf" target="_new">
 <a href="1661/1661HK2015ML.pdf" target="_new">
+<a href="1661/1661HK2017.pdf" target="_new">
+<a href="1661/1661HK2017ML.pdf" target="_new">
 <a href="1663/1663HK2000.pdf" target="_new">
 <a href="1663/1663NK2000.pdf" target="_new">
 <a href="1663/1663HK2000ML.pdf" target="_new">
@@ -464,6 +470,8 @@
 <a href="1664/1664HK2012ML.pdf" target="_new">
 <a href="1664/1664HK2014.pdf" target="_new">
 <a href="1664/1664HKML2014.pdf" target="_new">
+<a href="1664/1664HK2018.pdf" target="_new">
+<a href="1664/1664HK2018ML.pdf" target="_new">
 <a href="1665/1665HK2000cc.pdf" target="_new">
 <a href="1665/1665HK2000MLc.pdf" target="_new">
 <a href="1665/1665HK2001.pdf" target="_new">
@@ -707,6 +715,7 @@
 <a href="1870/1870HK2015.pdf" target="_new">
 <a href="1874/1874HK2010.pdf" target="_new">
 <a href="1874/1874HK2013.pdf" target="_new">
+<a href="1874/Klausurersatz2017.pdf" target="_new">
 <a href="Wirtschaftsinformatik/Modulklausur_31241_ SS2010.pdf" target="_new">
 <a href="Wirtschaftsinformatik/31231HK2013ML.pdf" target="_new">
 <a href="Wirtschaftsinformatik/31231HK2014.pdf" target="_new">
@@ -789,6 +798,7 @@ ____________________________________________________________________
 1142/1142KS16.pdf
 1142/1142KSL16.pdf
 1142/1142KS17.pdf
+1142/1142KSL17.pdf
 1144/1144HK2010.pdf
 1144/1144HKML2010.pdf
 1145/1145HK2012.pdf
@@ -948,6 +958,9 @@ ____________________________________________________________________
 1608/1608SS2013.pdf
 1608/08_WS1314.pdf
 1609/1609HK2014.pdf
+1609/1609KL25211_ws_2015_2016.pdf
+1609/1609KL25211_ss_2016.pdf
+1609/1609KL25211_ss_2017.pdf
 1612/Studientag00.pdf
 1612/Studientag_2005.pdf
 1612/1612NK2000.pdf
@@ -1152,6 +1165,8 @@ ____________________________________________________________________
 1661/1661HK2013.pdf
 1661/1661HK2015.pdf
 1661/1661HK2015ML.pdf
+1661/1661HK2017.pdf
+1661/1661HK2017ML.pdf
 1663/1663HK2000.pdf
 1663/1663NK2000.pdf
 1663/1663HK2000ML.pdf
@@ -1179,6 +1194,8 @@ ____________________________________________________________________
 1664/1664HK2012ML.pdf
 1664/1664HK2014.pdf
 1664/1664HKML2014.pdf
+1664/1664HK2018.pdf
+1664/1664HK2018ML.pdf
 1665/1665HK2000cc.pdf
 1665/1665HK2000MLc.pdf
 1665/1665HK2001.pdf
@@ -1422,6 +1439,7 @@ ____________________________________________________________________
 1870/1870HK2015.pdf
 1874/1874HK2010.pdf
 1874/1874HK2013.pdf
+1874/Klausurersatz2017.pdf
 Wirtschaftsinformatik/Modulklausur_31241_ SS2010.pdf
 Wirtschaftsinformatik/31231HK2013ML.pdf
 Wirtschaftsinformatik/31231HK2014.pdf
@@ -1511,1430 +1529,1448 @@ Wirtschaftsinformatik/20046_UEKlausur_ML.pdf
 1874
 Wirtschaftsinformatik
 http://www.fernuni-hagen.de/FACHSCHINF/1135/1135HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1135\1135HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1135\1135HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1135/1153HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1135\1153HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1135\1153HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1135/1135HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1135\1135HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1135\1135HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141PK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141PK2007.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141PK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141PK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141PK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141PK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2010.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2011.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141KLSS2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141KLSS2012.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141KLSS2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141NK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141NK2012.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141NK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141MLSS2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141MLSS2012.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141MLSS2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141SS2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141SS2013.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141SS2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141SS2013L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141SS2013L.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141SS2013L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2013.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2014.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2014.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2013ml.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2013ml.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2013ml.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2014ml.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2014ml.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2014ml.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_SS2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_SS2015.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_SS2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2015.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_SS2015ml.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_SS2015ml.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_SS2015ml.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_WS2015ml.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_WS2015ml.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_WS2015ml.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_SS2016.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_SS2016.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_SS2016.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1141/1141_SS2016ml.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1141\1141_SS2016ml.pdf
+E:\KlausurenPrüfungen FernUni\1141\1141_SS2016ml.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2007.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KP2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KP2007.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KP2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2007.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2007_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2007_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2007_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KP2007_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KP2007_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KP2007_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2007_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2007_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2007_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142K2008_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142K2008_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142K2008_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142NK2008_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142NK2008_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142NK2008_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2009.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2009.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2009_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2009_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2009_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2009_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2009_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2009_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2010.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2010.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS2010_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS2010_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS2010_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW2010_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW2010_L.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW2010_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW11.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW11.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW11.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS11.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS11.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS11.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KWL11.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KWL11.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KWL11.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL11.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KSL11.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL11.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW12.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW12.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW12.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS12.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS12.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS12.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KWL12.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KWL12.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KWL12.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS13.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS13.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS13.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW13.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW13.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW13.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL13.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KSL13.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL13.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KWL13.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KWL13.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KWL13.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW14.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW14.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW14.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL14.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KSL14.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL14.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KWL14.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KWL14.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KWL14.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS15.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS15.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS15.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KW15.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KW15.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KW15.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL15.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KSL15.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL15.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS16.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS16.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS16.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL16.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KSL16.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL16.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KS17.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1142\1142KS17.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KS17.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1142/1142KSL17.pdf
+E:\KlausurenPrüfungen FernUni\1142\1142KSL17.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1144/1144HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1144\1144HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1144\1144HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1144/1144HKML2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1144\1144HKML2010.pdf
+E:\KlausurenPrüfungen FernUni\1144\1144HKML2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_HK_12_13ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_HK_12_13ML.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_HK_12_13ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_ProK_13_14ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_ProK_13_14ML.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_ProK_13_14ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_ProK_11_12.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_ProK_11_12.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_ProK_11_12.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_ProK_11_12ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_ProK_11_12ML.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_ProK_11_12ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_ProK_12_13.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_ProK_12_13.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_ProK_12_13.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1145/1145_ProK_12_13ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1145\1145_ProK_12_13ML.pdf
+E:\KlausurenPrüfungen FernUni\1145\1145_ProK_12_13ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1146/1146HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1146\1146HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1146\1146HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK1999.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK1999.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK1999.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK1999ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK1999ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK1999ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1151/1151HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1151\1151HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1151\1151HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152UEKL2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152UEKL2001.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152UEKL2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152UEKL2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152UEKL2003.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152UEKL2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2005-2.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2005-2.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2005-2.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1152/1152HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1152\1152HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1152\1152HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181Studientag.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181Studientag.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181Studientag.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK97.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK97ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK97ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK97ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK98.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK99.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181NK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181NK99.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181NK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181NK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181NK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181NK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1181/1181HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1181\1181HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1181\1181HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182_Studientage.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182_Studientage.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182_Studientage.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182_StudientageML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182_StudientageML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182_StudientageML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK96.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK96.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK96.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK96ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK96ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK96ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK97.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK97ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK97ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK97ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK98.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK99.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK99.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK2000.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1182/1182HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1182\1182HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1182\1182HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1183/1183HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1183\1183HK99.pdf
+E:\KlausurenPrüfungen FernUni\1183\1183HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1183/1183HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1183\1183HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1183\1183HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1183/1183HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1183\1183HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1183\1183HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1212/1212UeKl.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1212\1212UeKl.pdf
+E:\KlausurenPrüfungen FernUni\1212\1212UeKl.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1212/1212UeKlMl.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1212\1212UeKlMl.pdf
+E:\KlausurenPrüfungen FernUni\1212\1212UeKlMl.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2005.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2007.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321NK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321NK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321NK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1321/1321HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1321\1321HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1321\1321HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1262/1262UeKL2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1262\1262UeKL2008.pdf
+E:\KlausurenPrüfungen FernUni\1262\1262UeKL2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1262/1262UeKLML2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1262\1262UeKLML2008.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1262\1262UeKLML2008.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1262/1262UeKL2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1262\1262UeKL2008.pdf
+E:\KlausurenPrüfungen FernUni\1262\1262UeKL2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK99.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575NK2000.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575NK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1575/1575HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1575\1575HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1575\1575HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK97.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK97ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK97ML.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK97ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK98.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK99.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1578/1578HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1578\1578HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1578\1578HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/st_1601_aufgaben.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\st_1601_aufgaben.pdf
+E:\KlausurenPrüfungen FernUni\1601\st_1601_aufgaben.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/st_1601_musterloesung.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\st_1601_musterloesung.pdf
+E:\KlausurenPrüfungen FernUni\1601\st_1601_musterloesung.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK01.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK01.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK01.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2002.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2003.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1601/1601HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1601\1601HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1601\1601HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608HK2007.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1608\1608HK2007.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608NK2006.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1608\1608NK2006.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1609/1609HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1609\1609HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608SS2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608SS2010.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608SS2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1609/1609HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1609\1609HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608SS2011L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608SS2011L.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608SS2011L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608WS2011L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608WS2011L.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608WS2011L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1609WS2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1609WS2012.pdf
+E:\KlausurenPrüfungen FernUni\1608\1609WS2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/1608SS2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\1608SS2013.pdf
+E:\KlausurenPrüfungen FernUni\1608\1608SS2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1608/08_WS1314.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1608\08_WS1314.pdf
+E:\KlausurenPrüfungen FernUni\1608\08_WS1314.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1609/1609HK2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1609\1609HK2014.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609HK2014.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1609/1609KL25211_ws_2015_2016.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609KL25211_ws_2015_2016.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1609/1609KL25211_ss_2016.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609KL25211_ss_2016.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1609/1609KL25211_ss_2017.pdf
+E:\KlausurenPrüfungen FernUni\1609\1609KL25211_ss_2017.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/Studientag00.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\Studientag00.pdf
+E:\KlausurenPrüfungen FernUni\1612\Studientag00.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/Studientag_2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\Studientag_2005.pdf
+E:\KlausurenPrüfungen FernUni\1612\Studientag_2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2000.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2002.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2003.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2005.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1612/1612NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1612\1612NK2007.pdf
+E:\KlausurenPrüfungen FernUni\1612\1612NK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK00c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK00c.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK00c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK00MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK00MLc.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK00MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2007.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2010.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2011.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613NK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613NK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613NK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1613/1613HK2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1613\1613HK2014.pdf
+E:\KlausurenPrüfungen FernUni\1613\1613HK2014.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NK2007.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HKML2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HKML2011.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HKML2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NK2011.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1618\1618NK2011.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HKML2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HKML2011.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HKML2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NKML2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NKML2011.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NKML2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NK2012.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HKML2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HKML2012.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HKML2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NKML2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NKML2012.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NKML2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618NK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618NK2013.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618NK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HKML2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HKML2013.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HKML2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2015.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1618/1618HK2016.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1618\1618HK2016.pdf
+E:\KlausurenPrüfungen FernUni\1618\1618HK2016.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/Studientag2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\Studientag2006.pdf
+E:\KlausurenPrüfungen FernUni\1653\Studientag2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2000.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2002.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2003.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2007.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1653\1653NK2007.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2010.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2011.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1653/1653NK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1653\1653NK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1653\1653NK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2010.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2011.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1654/1654NK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1654\1654NK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1654\1654NK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/Studientag2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\Studientag2006.pdf
+E:\KlausurenPrüfungen FernUni\1655\Studientag2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2000c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2000c.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2000c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2002.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2003.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2005.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655NK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655NK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655NK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1655\1655HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1655/1655HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1655\1655HK2006ML.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1655\1655HK2006ML.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2011.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1657\1657HK2011.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2014.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2014.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2014ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2014ML.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2014ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2015.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1657/1657HK2015ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1657\1657HK2015ML.pdf
+E:\KlausurenPrüfungen FernUni\1657\1657HK2015ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1658/1658Studientag2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1658\1658Studientag2012.pdf
+E:\KlausurenPrüfungen FernUni\1658\1658Studientag2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1658/1658HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1658\1658HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1658\1658HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1658/1658ML2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1658\1658ML2009.pdf
+E:\KlausurenPrüfungen FernUni\1658\1658ML2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1658/1658HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1658\1658HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1658\1658HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1658/1658ML2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1658\1658ML2012.pdf
+E:\KlausurenPrüfungen FernUni\1658\1658ML2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2007.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2008.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HL2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HL2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HL2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2010.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2011.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661NK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661NK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661NK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2012ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2012ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2012ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2015.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2015ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1661\1661HK2015ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2015ML.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2017.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2017.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1661/1661HK2017ML.pdf
+E:\KlausurenPrüfungen FernUni\1661\1661HK2017ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663NK2000.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663NK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663NK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663NK2006.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663NK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663NK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663NK2009.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663NK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1663/1663NK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1663\1663NK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1663\1663NK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/Ersatzpruefung.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\Ersatzpruefung.pdf
+E:\KlausurenPrüfungen FernUni\1664\Ersatzpruefung.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/Klausur_Leistungsnachweiss_1664_WS11-12.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\Klausur_Leistungsnachweiss_1664_WS11-12.pdf
+E:\KlausurenPrüfungen FernUni\1664\Klausur_Leistungsnachweiss_1664_WS11-12.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\1664HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HK2012ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\1664HK2012ML.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HK2012ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HK2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\1664HK2014.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HK2014.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HKML2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1664\1664HKML2014.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HKML2014.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HK2018.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HK2018.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1664/1664HK2018ML.pdf
+E:\KlausurenPrüfungen FernUni\1664\1664HK2018ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2000cc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2000cc.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2000cc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2000MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2000MLc.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2000MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1665/1665HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1665\1665HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1665\1665HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1666/Vorbereitung Klausur 1666.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1666\Vorbereitung Klausur 1666.pdf
+E:\KlausurenPrüfungen FernUni\1666\Vorbereitung Klausur 1666.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1666/1666HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1666\1666HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1666\1666HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1666/1666HK2013ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1666\1666HK2013ML.pdf
+E:\KlausurenPrüfungen FernUni\1666\1666HK2013ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2012.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2012ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2012ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2012ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2013.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2013ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2013ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2013ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2015.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1671/1671NK2015ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1671\1671NK2015ML.pdf
+E:\KlausurenPrüfungen FernUni\1671\1671NK2015ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1672/1672HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1672\1672HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1672\1672HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1672/1672HKML2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1672\1672HKML2013.pdf
+E:\KlausurenPrüfungen FernUni\1672\1672HKML2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1672/1672HK2016.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1672\1672HK2016.pdf
+E:\KlausurenPrüfungen FernUni\1672\1672HK2016.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1672/1672HK2016ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1672\1672HK2016ML.pdf
+E:\KlausurenPrüfungen FernUni\1672\1672HK2016ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1678/1678HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1678\1678HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1678\1678HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1686/1686_Schulz.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1686\1686_Schulz.pdf
+E:\KlausurenPrüfungen FernUni\1686\1686_Schulz.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1690/1690HK2000c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1690\1690HK2000c.pdf
+E:\KlausurenPrüfungen FernUni\1690\1690HK2000c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1690/1690HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1690\1690HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1690\1690HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1690/1690HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1690\1690HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1690\1690HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1692/1692HK1995.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1692\1692HK1995.pdf
+E:\KlausurenPrüfungen FernUni\1692\1692HK1995.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1693/1693HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1693\1693HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1693\1693HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1691/1691HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1691\1691HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1691\1691HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK98.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK99c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK99c.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK99c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK99MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK99MLc.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK99MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1697/1697HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1697\1697HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1697\1697HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1699/Protokoll.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1699\Protokoll.pdf
+E:\KlausurenPrüfungen FernUni\1699\Protokoll.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/ST1707.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\ST1707.pdf
+E:\KlausurenPrüfungen FernUni\1707\ST1707.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK97.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK97.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK98.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK98.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK99.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK99.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK00c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK00c.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK00c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK00c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK00c.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK00c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK00ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK00ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK00ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701NK00ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701NK00ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701NK00ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704NK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704NK97.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704NK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704NK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704NK98.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704NK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704NK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704NK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704NK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704HK99.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1704/1704HK00c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1704\1704HK00c.pdf
+E:\KlausurenPrüfungen FernUni\1704\1704HK00c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK96.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK96.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK96.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK96.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK96.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK96.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK96ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK96ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK96ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK96ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK96ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK96ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK97.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK97.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK97.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK97ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK97ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK97ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK98.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK98.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK98.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK98.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK99.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK99.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK00.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK00.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK00.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK00.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK00.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK00.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK00MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK00MLc.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK00MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK00MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK00MLc.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK00MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705HK01.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705HK01.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705HK01.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1705/1705NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1705\1705NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1705\1705NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1706/1706HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1706\1706HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1706\1706HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1706/K1706_klausurersatzgespraech_baehring.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1706\K1706_klausurersatzgespraech_baehring.pdf
+E:\KlausurenPrüfungen FernUni\1706\K1706_klausurersatzgespraech_baehring.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2000.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1707\1707NK2000.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1701/1701HK00ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1701\1701HK00ML.pdf
+E:\KlausurenPrüfungen FernUni\1701\1701HK00ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2002.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2003.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1707/1707HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1707\1707HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1707\1707HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/Uebungsklausur.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\Uebungsklausur.pdf
+E:\KlausurenPrüfungen FernUni\1708\Uebungsklausur.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/Musterloesung.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\Musterloesung.pdf
+E:\KlausurenPrüfungen FernUni\1708\Musterloesung.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1705HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1705HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1708\1705HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708NK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708NK2001.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708NK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708NK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708NK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708NK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708NK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708NK2005.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708NK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708NK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708NK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708NK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1708/1708HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1708\1708HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1708\1708HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1709/1709NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1709\1709NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1709\1709NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1727/Klausurersatzgespraech_2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1727\Klausurersatzgespraech_2011.pdf
+E:\KlausurenPrüfungen FernUni\1727\Klausurersatzgespraech_2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1728/Klausurersatzpruefung.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1728\Klausurersatzpruefung.pdf
+E:\KlausurenPrüfungen FernUni\1728\Klausurersatzpruefung.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1738/1738HK03.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1738\1738HK03.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1738\1738HK03.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1738/1738HK03.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1738\1738HK03.pdf
+E:\KlausurenPrüfungen FernUni\1738\1738HK03.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1738/1738HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1738\1738HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1738\1738HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1744/1744_Schiffmann.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1744\1744_Schiffmann.pdf
+E:\KlausurenPrüfungen FernUni\1744\1744_Schiffmann.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1744/1744HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1744\1744HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1744\1744HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1744/Klausurersatz2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1744\Klausurersatz2013.pdf
+E:\KlausurenPrüfungen FernUni\1744\Klausurersatz2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2000ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2000ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2000ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2002ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2002ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2002ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793NK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793NK2004.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793NK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793NK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793NK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793NK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793NK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793NK2005.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793NK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793NK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793NK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793NK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2009ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2009ML.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2009ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1793/1793HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1793\1793HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1793\1793HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK96.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK96.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK96.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK96ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK96ML.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK96ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK00c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK00c.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK00c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK01.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK01.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK01.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK01ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK01ML.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK01ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1794/1794HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1794\1794HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1794\1794HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1796/1796KlausurErsatz.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1796\1796KlausurErsatz.pdf
+E:\KlausurenPrüfungen FernUni\1796\1796KlausurErsatz.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1798/1798HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1798\1798HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1798\1798HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1798/1798HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1798\1798HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1798\1798HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1798/1798HK2016.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1798\1798HK2016.pdf
+E:\KlausurenPrüfungen FernUni\1798\1798HK2016.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1802/1802HK98ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1802\1802HK98ML.pdf
+E:\KlausurenPrüfungen FernUni\1802\1802HK98ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1802/1802HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1802\1802HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1802\1802HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1802/1802HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1802\1802HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1802\1802HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1802/1802HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1802\1802HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1802\1802HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1802/1802HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1802\1802HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1802\1802HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK99.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2001ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2001ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2001ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2004ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2004ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2004ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2015.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2015ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2015ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2015ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2016.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2016.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2016.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1810/1810HK2016ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1810\1810HK2016ML.pdf
+E:\KlausurenPrüfungen FernUni\1810\1810HK2016ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK00.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK00.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK00.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK00ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK00ML.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK00ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2007ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2007ML.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2007ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2008.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2008.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2008.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2008ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2008ML.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2008ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2009.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2009.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2009.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1814/1814HK2011mitML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1814\1814HK2011mitML.pdf
+E:\KlausurenPrüfungen FernUni\1814\1814HK2011mitML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1815/1815HK99c.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1815\1815HK99c.pdf
+E:\KlausurenPrüfungen FernUni\1815\1815HK99c.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1815/1815HK99MLc.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1815\1815HK99MLc.pdf
+E:\KlausurenPrüfungen FernUni\1815\1815HK99MLc.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1816/1816HK99.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1816\1816HK99.pdf
+E:\KlausurenPrüfungen FernUni\1816\1816HK99.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1816/1816HK99ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1816\1816HK99ML.pdf
+E:\KlausurenPrüfungen FernUni\1816\1816HK99ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1816/1816HK00.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1816\1816HK00.pdf
+E:\KlausurenPrüfungen FernUni\1816\1816HK00.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827_Studientage_2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827_Studientage_2004.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827_Studientage_2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2000.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2000.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2000.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2001.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2001.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2001.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2002.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2002.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2002.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1827/1827HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1827\1827HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1827\1827HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853K2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853K2010.pdf
+E:\KlausurenPrüfungen FernUni\1853\1853K2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853K2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853K2011.pdf
+E:\KlausurenPrüfungen FernUni\1853\1853K2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853K2011_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853K2011_L.pdf
+E:\KlausurenPrüfungen FernUni\1853\1853K2011_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853HK2012.pdfFile schon vorhanden!
+E:\KlausurenPrüfungen FernUni\1853\1853HK2012.pdfFile schon vorhanden!
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1853\1853HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1853/1853HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1853\1853HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1853\1853HK2013.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1865/1865HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1865\1865HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1865\1865HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2003.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2003.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2003.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2003ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2003ML.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2003ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2006.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2006.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2006.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2007.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2007.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2007.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2010ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2010ML.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2010ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1866/1866HK2011ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1866\1866HK2011ML.pdf
+E:\KlausurenPrüfungen FernUni\1866\1866HK2011ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1867/1867HK2004.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1867\1867HK2004.pdf
+E:\KlausurenPrüfungen FernUni\1867\1867HK2004.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1867/1867HK2005.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1867\1867HK2005.pdf
+E:\KlausurenPrüfungen FernUni\1867\1867HK2005.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1867/1867HK2005ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1867\1867HK2005ML.pdf
+E:\KlausurenPrüfungen FernUni\1867\1867HK2005ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1867/1867HK2006ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1867\1867HK2006ML.pdf
+E:\KlausurenPrüfungen FernUni\1867\1867HK2006ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1867/1867HK2012_L.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1867\1867HK2012_L.pdf
+E:\KlausurenPrüfungen FernUni\1867\1867HK2012_L.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1868/1868HK2011.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1868\1868HK2011.pdf
+E:\KlausurenPrüfungen FernUni\1868\1868HK2011.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1868/1868HK2012.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1868\1868HK2012.pdf
+E:\KlausurenPrüfungen FernUni\1868\1868HK2012.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1870/1870HK2015.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1870\1870HK2015.pdf
+E:\KlausurenPrüfungen FernUni\1870\1870HK2015.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1874/1874HK2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1874\1874HK2010.pdf
+E:\KlausurenPrüfungen FernUni\1874\1874HK2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/1874/1874HK2013.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\1874\1874HK2013.pdf
+E:\KlausurenPrüfungen FernUni\1874\1874HK2013.pdf
+http://www.fernuni-hagen.de/FACHSCHINF/1874/Klausurersatz2017.pdf
+E:\KlausurenPrüfungen FernUni\1874\Klausurersatz2017.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/Modulklausur_31241_ SS2010.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\Modulklausur_31241_ SS2010.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\Modulklausur_31241_ SS2010.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/31231HK2013ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\31231HK2013ML.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\31231HK2013ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/31231HK2014.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\31231HK2014.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\31231HK2014.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/31231HK2014ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\31231HK2014ML.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\31231HK2014ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/31231HK2015ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\31231HK2015ML.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\31231HK2015ML.pdf
 http://www.fernuni-hagen.de/FACHSCHINF/Wirtschaftsinformatik/20046_UEKlausur_ML.pdf
-C:\Users\test\OneDrive\Studium\rPrüfungen FernUni\Wirtschaftsinformatik\20046_UEKlausur_ML.pdf
+E:\KlausurenPrüfungen FernUni\Wirtschaftsinformatik\20046_UEKlausur_ML.pdf

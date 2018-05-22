@@ -136,7 +136,7 @@ namespace SPS_Analyzer
 
         private IPAddress[] availableClient(IPAddress a)
         {
-            IPAddress[] ab;
+            IPAddress[] ab = new IPAddress[254];
             string[] oktetten = new string[4];
             oktetten = ipShare(a);
 
@@ -374,6 +374,22 @@ namespace SPS_Analyzer
         {          
             CPU.PlcHotStart();
             lblStatus.Text = "Stop";
+        }
+
+        private void metroTabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPLCScan_Click(object sender, EventArgs e)
+        {
+            PLCScan plcScan = new PLCScan();
+            plcScan.ShowDialog();
+        }
+
+        private void txtIP_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
