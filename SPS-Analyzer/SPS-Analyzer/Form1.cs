@@ -129,7 +129,7 @@ namespace SPS_Analyzer
             string[] ipsdf = ipSpeicher.Split('.');
             for (int i = 0; i < ipsdf.Length; i++)
             {
-                MessageBox.Show(ipsdf[i]);
+                //MessageBox.Show(ipsdf[i]);
             }
             return ipsdf;
         }
@@ -224,7 +224,12 @@ namespace SPS_Analyzer
                     item.SubItems.Add(txtAdresse.Text);
                     item.SubItems.Add(txtBit.Text);
                     item.SubItems.Add("false");
+                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
+                    item.SubItems.Add(txtBeschreibung.Text);
                     metroListView1.Items.Add(item);
+
+                    //Ruecksetzung der Auswahl
+                    //metroRadioButton2.Select();
                 }
                 else if (metroRadioButton3.Checked)
                 {
@@ -234,12 +239,41 @@ namespace SPS_Analyzer
                     item.SubItems.Add(txtAdresse.Text);
                     item.SubItems.Add(txtBit.Text);
                     item.SubItems.Add("false");
+                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
+                    item.SubItems.Add(txtBeschreibung.Text);
                     metroListView1.Items.Add(item);
+
+                    //Ruecksetzung der Auswahl
+                    //metroRadioButton3.Text = "false";
+                }
+                else if (metroRadioButton1.Checked)
+                {
+                    anzahlEinträge++;
+                    item = new ListViewItem("Datenbaustein " + txtAdresse.Text + "." + txtBit.Text);
+                    item.SubItems.Add("DB");
+                    item.SubItems.Add(txtAdresse.Text);
+                    item.SubItems.Add(txtBit.Text);
+                    item.SubItems.Add("false");
+                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
+                    item.SubItems.Add(txtBeschreibung.Text);
+                    metroListView1.Items.Add(item);
+
+                    //Ruecksetzung der Auswahl
+                    //metroRadioButton1.Select();
                 }
                 if (chckUeberwachung.Checked)
                 {
-                    ueberwachung = true;
+                    /*
+                     * 13.08.2018 -> Einzelüberwachung erstellt
+                     * 
+                     */
+                    //ueberwachung = true;
                 }
+
+                //Ruecksetzung der Auswahl
+                txtBeschreibung.Text = "";
+                txtAdresse.Text = "";
+                txtBit.Text = "";
             }
             
         }
@@ -388,6 +422,21 @@ namespace SPS_Analyzer
         }
 
         private void txtIP_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroTextBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
         {
 
         }
