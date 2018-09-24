@@ -19,7 +19,6 @@ namespace SPS_Analyzer
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
-        private List<Steuerung> controlList;
         public int anzahlEinträge = 0;
         public string cpuFile = @"cpu.xml";
         //CPU-Variablen
@@ -30,7 +29,6 @@ namespace SPS_Analyzer
         public bool conTrue = false;
         public bool verbindung = false;
         public bool ueberwachung = false;
-        private ContextMenuStrip menuStripControl;
 
         public Form1()
         {
@@ -49,13 +47,6 @@ namespace SPS_Analyzer
             //GetIPv4();
             IPAddress adr = GetIPv4();
             ipShare(adr);
-            controlList = new List<Steuerung>();
-            menuStripControl = new ContextMenuStrip();
-            //menuStripControl += menuStrip1_ItemClicked;
-            menuStripControl.Items.Add("Löschen");
-            menuStripControl.Items.Add("Anzeigen");
-            //menuStripControl.Items.Add();
-            metroListView2.ContextMenuStrip = menuStripControl;
         }
 
         private void speichernEingaben()
@@ -138,7 +129,7 @@ namespace SPS_Analyzer
             string[] ipsdf = ipSpeicher.Split('.');
             for (int i = 0; i < ipsdf.Length; i++)
             {
-                //MessageBox.Show(ipsdf[i]);
+                MessageBox.Show(ipsdf[i]);
             }
             return ipsdf;
         }
@@ -233,12 +224,7 @@ namespace SPS_Analyzer
                     item.SubItems.Add(txtAdresse.Text);
                     item.SubItems.Add(txtBit.Text);
                     item.SubItems.Add("false");
-                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
-                    item.SubItems.Add(txtBeschreibung.Text);
                     metroListView1.Items.Add(item);
-
-                    //Ruecksetzung der Auswahl
-                    //metroRadioButton2.Select();
                 }
                 else if (metroRadioButton3.Checked)
                 {
@@ -248,41 +234,12 @@ namespace SPS_Analyzer
                     item.SubItems.Add(txtAdresse.Text);
                     item.SubItems.Add(txtBit.Text);
                     item.SubItems.Add("false");
-                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
-                    item.SubItems.Add(txtBeschreibung.Text);
                     metroListView1.Items.Add(item);
-
-                    //Ruecksetzung der Auswahl
-                    //metroRadioButton3.Text = "false";
-                }
-                else if (metroRadioButton1.Checked)
-                {
-                    anzahlEinträge++;
-                    item = new ListViewItem("Datenbaustein " + txtAdresse.Text + "." + txtBit.Text);
-                    item.SubItems.Add("DB");
-                    item.SubItems.Add(txtAdresse.Text);
-                    item.SubItems.Add(txtBit.Text);
-                    item.SubItems.Add("false");
-                    item.SubItems.Add(chckUeberwachung.Checked.ToString());
-                    item.SubItems.Add(txtBeschreibung.Text);
-                    metroListView1.Items.Add(item);
-
-                    //Ruecksetzung der Auswahl
-                    //metroRadioButton1.Select();
                 }
                 if (chckUeberwachung.Checked)
                 {
-                    /*
-                     * 13.08.2018 -> Einzelüberwachung erstellt
-                     * 
-                     */
-                    //ueberwachung = true;
+                    ueberwachung = true;
                 }
-
-                //Ruecksetzung der Auswahl
-                txtBeschreibung.Text = "";
-                txtAdresse.Text = "";
-                txtBit.Text = "";
             }
             
         }
@@ -433,140 +390,6 @@ namespace SPS_Analyzer
         private void txtIP_Click(object sender, EventArgs e)
         {
 
-        }
-
-        private void metroLabel2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void metroTextBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void metroButton1_Click(object sender, EventArgs e)
-        {
-            if (metroTextBox1.Text == "" || metroTextBox2.Text == "" || metroTextBox3.Text == "" || metroTextBox4.Text == "" || metroTextBox5.Text == "" || metroTextBox6.Text == "" || metroTextBox7.Text == "")
-            {
-                MetroFramework.MetroMessageBox.Show(this, "Es fehlen Angaben!");
-            }
-            else
-            {
-                ListViewItem item = new ListViewItem();
-                //Name
-                item.SubItems.Add(metroTextBox6.Text);
-                //Fertigung
-                item.SubItems.Add(metroTextBox7.Text);
-                //IP-Adresse
-                item.SubItems.Add(metroTextBox1.Text);
-                //BDE-Status
-                item.SubItems.Add("DB" + metroTextBox8.Text + ".DBX" + metroTextBox4.Text + "." + metroTextBox5.Text);
-                //Rack
-                item.SubItems.Add(metroTextBox2.Text);
-                //Slot
-                item.SubItems.Add(metroTextBox3.Text);
-                metroListView2.Items.Add(item);
-                akuMenu();
-                MetroFramework.MetroMessageBox.Show(this, "IP-Adresse: " + metroTextBox1.Text + "\n" + "Rack: " + metroTextBox3.Text + "Slot: " + metroTextBox2.Text + "Name: " + metroTextBox6.Text + "Fertigung: " + metroTextBox7.Text + "DB" + metroTextBox8.Text + ".dbx" + metroTextBox4.Text + "." + metroTextBox5.Text);
-                Steuerung steuerung = new Steuerung(metroTextBox1.Text, Int32.Parse(metroTextBox3.Text), Int32.Parse(metroTextBox2.Text), metroTextBox6.Text, metroTextBox7.Text, Int32.Parse(metroTextBox8.Text), Int32.Parse(metroTextBox4.Text), Int32.Parse(metroTextBox5.Text));
-                comboBox1.Items.Add(steuerung.getName());
-                deletePlaceholder();
-            }
-        }
-
-        public void deletePlaceholder()
-        {
-            metroTextBox1.Text = "";
-            metroTextBox2.Text = "";
-            metroTextBox3.Text = "";
-            metroTextBox4.Text = "";
-            metroTextBox5.Text = "";
-            metroTextBox6.Text = "";
-            metroTextBox7.Text = "";
-            metroTextBox8.Text = "";
-        }
-
-        private void akuMenu()
-        {
-            foreach (ListViewItem item in metroListView2.Items)
-            {
-                comboBox1.Items.Add(item.Text);
-                Console.Write("sdfkjklsdf");
-            }
-            //comboBox1.Items.Add("Halloe");
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnAddControl_Click(object sender, EventArgs e)
-        {
-            AddControl addControl = new AddControl();
-            if (addControl.ShowDialog() == DialogResult.OK)
-            {
-                Steuerung control = new Steuerung(addControl.IpAdresse, addControl.Rack, addControl.Slot, addControl.Name, addControl.Fertigung, addControl.Db, addControl.DbByte, addControl.DbBit);
-                controlList.Add(control);
-                ListViewItem item = new ListViewItem(addControl.Name);
-                item.SubItems.Add(addControl.Fertigung);
-                item.SubItems.Add(addControl.IpAdresse);
-                item.SubItems.Add("DB" + addControl.Db + ".DBX" + addControl.DbByte + "." + addControl.DbBit);
-                item.SubItems.Add(control.checkOnline().ToString());
-                //item.SubItems.Add();
-                metroListView2.Items.Add(item);
-            }
-        }
-
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-            MessageBox.Show("Rechtsklick");
-            //Rechtsklick-Menu Löschen Aktion
-            ListView.SelectedListViewItemCollection selectItems = metroListView2.SelectedItems;
-            if (e.ClickedItem.Text == "Löschen")
-            {
-                MessageBox.Show("Löschen ausgewählt");
-                foreach (ListViewItem item in selectItems)
-                {
-                    metroListView2.Items.Remove(item);
-                }
-            }
-
-            if (e.ClickedItem.Text == "")
-            {
-
-            }
-        }
-
-        private void metroButton3_Click(object sender, EventArgs e)
-        {
-            AddFault addFault = new AddFault(controlList);
-            if (addFault.ShowDialog() == DialogResult.OK)
-            {
-                
-            }
-        }
-
-        private void metroListView2_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-            ListViewItem item = metroListView2.SelectedItems[0];
-            Console.WriteLine(item.SubItems[0].Text);
-            foreach (Steuerung control in controlList)
-            {
-                Console.WriteLine("Vergleiche: " + control.getName() + " mit " + item.SubItems[0].Text);
-                if (control.getName().Equals(item.SubItems[0].Text))
-                {
-                    Fehleruebersicht fehleruebersicht = new Fehleruebersicht(control);
-                    fehleruebersicht.Show();
-                }
-            }
-            //Fehleruebersicht fehleruebersicht = new Fehleruebersicht();
         }
     }
 }

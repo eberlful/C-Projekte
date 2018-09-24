@@ -46,3 +46,6 @@ C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\bin\Debug\S
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.pdb
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\bin\Debug\Sharp7.dll.config
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.PLCScan.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.AddControl.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.AddFault.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Fehleruebersicht.resources
