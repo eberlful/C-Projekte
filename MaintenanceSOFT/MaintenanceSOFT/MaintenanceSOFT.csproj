@@ -91,6 +91,7 @@
     <Compile Include="statusUebersicht.Designer.cs">
       <DependentUpon>statusUebersicht.cs</DependentUpon>
     </Compile>
+    <Compile Include="threadAktuall.cs" />
     <Compile Include="Verwaltung.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -1,0 +1,20 @@
+Starten:
+- Check ob Files alle vorhanden
+- 
+
+Status:
+- loadForm(lädt XML)
+- Starten der Threads
+- Übersicht Status der CPUs und aktive oder passive CPUs
+- Überischt gesamter Fehler
+
+Benutzer:
+- Benutzeranmeldung
+
+Verwaltung:
+- Einstellungen
+- Benuter anlegen
+
+Übersicht:
+- Zeigt momentan anliegende Fehler an
+

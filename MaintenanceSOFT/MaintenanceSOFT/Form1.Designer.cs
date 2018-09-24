@@ -54,7 +54,7 @@
             this.metroTileEinstellungen.Name = "metroTileEinstellungen";
             this.metroTileEinstellungen.Size = new System.Drawing.Size(330, 230);
             this.metroTileEinstellungen.TabIndex = 2;
-            this.metroTileEinstellungen.Text = "Einstellungen";
+            this.metroTileEinstellungen.Text = "Start";
             this.metroTileEinstellungen.UseSelectable = true;
             this.metroTileEinstellungen.Click += new System.EventHandler(this.metroTileEinstellungen_Click);
             // 

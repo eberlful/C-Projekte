@@ -7,6 +7,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
@@ -20,6 +21,9 @@ namespace MaintenanceSOFT
         private ListView liste = new ListView();
         private int currentUser = 0;
         private string currentUsername = "";
+        private int aktuallisierungRate = 1000;
+        public static ListView listeAnlagen;
+        public static bool status;
         /*
          * 0 = Undefiniert
          * 1 = root
@@ -32,14 +36,43 @@ namespace MaintenanceSOFT
             InitializeComponent();
         }
 
+        public ListView loadListe(String pfad)
+        {
+            ListView speicher = new ListView();
+            if (File.Exists(pfad))
+            {
+                //XML Auslesen
+                XmlDocument doc = new XmlDocument();
+                doc.Load(pfad);
+                string[] info = new string[4];
+
+                foreach (XmlNode node in doc.DocumentElement)
+                {
+                    info[0] = node.Attributes[0].InnerText;
+                    info[2] = node.Attributes[1].InnerText;
+                    info[1] = node.Attributes[2].InnerText;
+                    info[3] = node.Attributes[3].InnerText;
+                    ListViewItem item = new ListViewItem(info);
+                    speicher.Items.Add(item);
+                }
+            }
+            else
+            {
+                MetroFramework.MetroMessageBox.Show(this, "Es wurde keine Config-Datei gefunden", "Config-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            return speicher;
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
+            verwaltungPfad = Properties.Settings.Default.pfadVerwaltung;
             //Beim laden wird Config-File geladen und in Liste gespeichert
             try
             {
                 if (File.Exists(verwaltungPfad))
                 {
                     anlagenFile = true;
+                    
                 }
                 else
                 {
@@ -47,6 +80,17 @@ namespace MaintenanceSOFT
                     if(result == DialogResult.Yes)
                     {
                         File.Create(verwaltungPfad);
+                    }
+                    else
+                    {
+                        OpenFileDialog dialog = new OpenFileDialog();
+                        if (dialog.ShowDialog() == DialogResult.OK)
+                        {
+                            verwaltungPfad = dialog.FileName;
+                            Properties.Settings.Default.pfadVerwaltung = verwaltungPfad;
+                            Properties.Settings.Default.Save();
+                            listeAnlagen = loadListe(verwaltungPfad);
+                        }
                     }
                 }
             }
@@ -58,11 +102,6 @@ namespace MaintenanceSOFT
             
         }
 
-        private ListView loadListe(string pfad)
-        {
-            ListView localList = new ListView();
-            return localList;
-        }
 
         private void metroPanel1_Paint(object sender, PaintEventArgs e)
         {
@@ -135,8 +174,53 @@ namespace MaintenanceSOFT
 
         private void metroTileEinstellungen_Click(object sender, EventArgs e)
         {
-            Einstellungen einstellungen = new Einstellungen();
-            einstellungen.Show();
+            metroTileEinstellungen.BackColor = Color.Green;
+            Thread thread = new Thread(new ThreadStart(startThread()));
+            thread.Start();
+        }
+
+        public static void speichereFehler(Exception ex)
+        {
+            try
+            {
+                if (File.Exists("fehler.txt"))
+                {
+                    File.AppendText("\n" + "Fehler: " + ex.StackTrace);
+                }
+                else
+                {
+                    File.Create("fehler.txt");
+                    File.AppendText("\n" + "Fehler: " + ex.StackTrace);
+                }
+            }
+            catch (Exception exx)
+            {
+                speichereFehler(exx);
+            }
+        }
+
+        private ThreadStart startThread()
+        {
+            try
+            {
+                status = true;
+                threadAktuall zyklus = new threadAktuall();
+                zyklus.start();
+                while (status)
+                {
+
+                }
+            } catch(Exception ex)
+            {
+                speichereFehler(ex);
+                MetroFramework.MetroMessageBox.Show(this, ex.Message, "Fehler");
+            }
+            return null;
+        }
+
+        public void startThrvbad()
+        {
+
         }
 
         private void metroTileUebersicht_Click(object sender, EventArgs e)

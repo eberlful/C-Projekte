@@ -102,5 +102,10 @@ namespace MaintenanceSOFT
                 MetroFramework.MetroMessageBox.Show(this, "Bitte füllen Sie das Formular korrekt aus!", "Formfehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
