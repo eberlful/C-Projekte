@@ -5,5 +5,8 @@
     <Setting Name="ip" Type="System.String" Scope="User">
       <Value Profile="(Default)" />
     </Setting>
+    <Setting Name="SteuerungenOfline" Type="System.Collections.Specialized.ListDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
   </Settings>
 </SettingsFile>

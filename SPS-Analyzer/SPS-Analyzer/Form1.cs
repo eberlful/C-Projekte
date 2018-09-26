@@ -39,6 +39,7 @@ namespace SPS_Analyzer
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            
             txtIP.Text = Properties.Settings.Default.ip;
             txtRack.Text = Properties.Settings.Default.rack.ToString();
             txtSlot.Text = Properties.Settings.Default.slot.ToString();
@@ -567,6 +568,12 @@ namespace SPS_Analyzer
                 }
             }
             //Fehleruebersicht fehleruebersicht = new Fehleruebersicht();
+        }
+
+        private void metroButton2_Click(object sender, EventArgs e)
+        {
+            Einstellungen einstellungen = new Einstellungen();
+            einstellungen.Show();
         }
     }
 }

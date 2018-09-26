@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -74,6 +75,66 @@ namespace SPS_Analyzer
         {
             get { return fault; }
             set { fault = value; }
+        }
+
+        private void txtMerkerByte_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtMerkerByte.Text))
+            {
+                txtMerkerByte.Text = "";
+            }
+        }
+
+        private void txtMerkerBit_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtMerkerBit.Text))
+            {
+                txtMerkerBit.Text = "";
+            }
+        }
+
+        private void txtDB_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtDB.Text))
+            {
+                txtDB.Text = "";
+            }
+        }
+
+        private void txtDBByte_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtDBByte.Text))
+            {
+                txtDBByte.Text = "";
+            }
+        }
+
+        private void txtDBBit_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtDBBit.Text))
+            {
+                txtDBBit.Text = "";
+            }
+        }
+
+        private void txtNummer_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtNummer.Text))
+            {
+                txtNummer.Text = "";
+            }
         }
     }
 }

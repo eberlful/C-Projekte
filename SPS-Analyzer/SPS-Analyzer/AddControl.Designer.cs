@@ -77,6 +77,7 @@
             this.txtDB.UseSelectable = true;
             this.txtDB.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtDB.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtDB.TextChanged += new System.EventHandler(this.txtDB_TextChanged);
             // 
             // btnAdd
             // 
@@ -166,6 +167,7 @@
             this.txtBit.UseSelectable = true;
             this.txtBit.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtBit.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtBit.TextChanged += new System.EventHandler(this.txtBit_TextChanged);
             // 
             // metroLabel11
             // 
@@ -205,6 +207,7 @@
             this.txtByte.UseSelectable = true;
             this.txtByte.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtByte.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtByte.TextChanged += new System.EventHandler(this.txtByte_TextChanged);
             // 
             // txtSlot
             // 
@@ -235,6 +238,7 @@
             this.txtSlot.UseSelectable = true;
             this.txtSlot.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtSlot.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtSlot.TextChanged += new System.EventHandler(this.txtSlot_TextChanged);
             // 
             // txtRack
             // 
@@ -265,6 +269,7 @@
             this.txtRack.UseSelectable = true;
             this.txtRack.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtRack.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtRack.TextChanged += new System.EventHandler(this.txtRack_TextChanged);
             // 
             // metroLabel9
             // 

@@ -71,6 +71,18 @@
     <Compile Include="AddFault.Designer.cs">
       <DependentUpon>AddFault.cs</DependentUpon>
     </Compile>
+    <Compile Include="AnalyzeFehler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnalyzeFehler.Designer.cs">
+      <DependentUpon>AnalyzeFehler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Einstellungen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Einstellungen.Designer.cs">
+      <DependentUpon>Einstellungen.cs</DependentUpon>
+    </Compile>
     <Compile Include="Eintrag.cs" />
     <Compile Include="Fehler.cs" />
     <Compile Include="Fehleruebersicht.cs">
@@ -99,6 +111,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AddFault.resx">
       <DependentUpon>AddFault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnalyzeFehler.resx">
+      <DependentUpon>AnalyzeFehler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Einstellungen.resx">
+      <DependentUpon>Einstellungen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Fehleruebersicht.resx">
       <DependentUpon>Fehleruebersicht.cs</DependentUpon>

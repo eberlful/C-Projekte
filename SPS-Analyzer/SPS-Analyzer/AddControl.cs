@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -107,6 +108,56 @@ namespace SPS_Analyzer
         private void btnAdd_KeyPress(object sender, KeyPressEventArgs e)
         {
             
+        }
+
+        private void txtRack_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtRack.Text))
+            {
+                txtRack.Text = "";
+            }
+        }
+
+        private void txtSlot_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtSlot.Text))
+            {
+                txtSlot.Text = "";
+            }
+        }
+
+        private void txtDB_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtDB.Text))
+            {
+                txtDB.Text = "";
+            }
+        }
+
+        private void txtByte_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtByte.Text))
+            {
+                txtByte.Text = "";
+            }
+        }
+
+        private void txtBit_TextChanged(object sender, EventArgs e)
+        {
+            Regex regex = new Regex("[0-9]");
+
+            if (!regex.IsMatch(txtBit.Text))
+            {
+                txtBit.Text = "";
+            }
         }
     }
 }

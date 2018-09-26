@@ -317,7 +317,7 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
             this.metroTabControl1.Location = new System.Drawing.Point(23, 54);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 2;
+            this.metroTabControl1.SelectedIndex = 4;
             this.metroTabControl1.Size = new System.Drawing.Size(831, 515);
             this.metroTabControl1.TabIndex = 16;
             this.metroTabControl1.UseSelectable = true;
@@ -1177,6 +1177,7 @@
             this.metroButton2.TabIndex = 13;
             this.metroButton2.Text = "Einstellungen";
             this.metroButton2.UseSelectable = true;
+            this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
             // btnAddControl
             // 

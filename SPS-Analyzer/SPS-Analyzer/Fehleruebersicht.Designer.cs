@@ -35,6 +35,7 @@
             this.beschr = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.last = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.nummer = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnAnalyze = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // listViewFehler
@@ -87,11 +88,22 @@
             this.nummer.Text = "Nummer";
             this.nummer.Width = 74;
             // 
+            // btnAnalyze
+            // 
+            this.btnAnalyze.Location = new System.Drawing.Point(947, 21);
+            this.btnAnalyze.Name = "btnAnalyze";
+            this.btnAnalyze.Size = new System.Drawing.Size(92, 23);
+            this.btnAnalyze.TabIndex = 9;
+            this.btnAnalyze.Text = "Analyze";
+            this.btnAnalyze.UseSelectable = true;
+            this.btnAnalyze.Click += new System.EventHandler(this.btnAnalyze_Click);
+            // 
             // Fehleruebersicht
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1062, 659);
+            this.Controls.Add(this.btnAnalyze);
             this.Controls.Add(this.listViewFehler);
             this.Name = "Fehleruebersicht";
             this.Text = "Fehlerübersicht";
@@ -109,5 +121,6 @@
         private System.Windows.Forms.ColumnHeader beschr;
         private System.Windows.Forms.ColumnHeader last;
         private System.Windows.Forms.ColumnHeader nummer;
+        private MetroFramework.Controls.MetroButton btnAnalyze;
     }
 }

@@ -242,6 +242,7 @@
             this.txtDB.UseSelectable = true;
             this.txtDB.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtDB.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtDB.TextChanged += new System.EventHandler(this.txtDB_TextChanged);
             // 
             // txtNummer
             // 
@@ -272,6 +273,7 @@
             this.txtNummer.UseSelectable = true;
             this.txtNummer.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtNummer.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtNummer.TextChanged += new System.EventHandler(this.txtNummer_TextChanged);
             // 
             // comboBoxControlls
             // 
@@ -310,6 +312,7 @@
             this.txtDBByte.UseSelectable = true;
             this.txtDBByte.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtDBByte.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtDBByte.TextChanged += new System.EventHandler(this.txtDBByte_TextChanged);
             // 
             // txtDBBit
             // 
@@ -340,6 +343,7 @@
             this.txtDBBit.UseSelectable = true;
             this.txtDBBit.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtDBBit.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtDBBit.TextChanged += new System.EventHandler(this.txtDBBit_TextChanged);
             // 
             // txtMerkerByte
             // 
@@ -370,6 +374,7 @@
             this.txtMerkerByte.UseSelectable = true;
             this.txtMerkerByte.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtMerkerByte.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtMerkerByte.TextChanged += new System.EventHandler(this.txtMerkerByte_TextChanged);
             // 
             // txtMerkerBit
             // 
@@ -400,6 +405,7 @@
             this.txtMerkerBit.UseSelectable = true;
             this.txtMerkerBit.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtMerkerBit.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtMerkerBit.TextChanged += new System.EventHandler(this.txtMerkerBit_TextChanged);
             // 
             // checkBoxUeberwachung
             // 

@@ -34,5 +34,12 @@ namespace SPS_Analyzer
                 listViewFehler.Items.Add(item);
             }
         }
+
+        private void btnAnalyze_Click(object sender, EventArgs e)
+        {
+            ListView.SelectedListViewItemCollection selectItems = listViewFehler.SelectedItems;
+            AnalyzeFehler analyze = new AnalyzeFehler(selectItems);
+            analyze.Show();
+        }
     }
 }
