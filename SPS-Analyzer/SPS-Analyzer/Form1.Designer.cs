@@ -110,6 +110,7 @@
             this.btnThreadingStop = new MetroFramework.Controls.MetroButton();
             this.btnPLCScan = new MetroFramework.Controls.MetroButton();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.btnNeueFertigung = new MetroFramework.Controls.MetroButton();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -1073,6 +1074,7 @@
             // 
             // metroTabPage5
             // 
+            this.metroTabPage5.Controls.Add(this.btnNeueFertigung);
             this.metroTabPage5.Controls.Add(this.metroButton8);
             this.metroTabPage5.Controls.Add(this.metroButton7);
             this.metroTabPage5.Controls.Add(this.metroButton6);
@@ -1233,6 +1235,19 @@
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
+            // btnNeueFertigung
+            // 
+            this.btnNeueFertigung.FontSize = MetroFramework.MetroButtonSize.Tall;
+            this.btnNeueFertigung.Highlight = true;
+            this.btnNeueFertigung.Location = new System.Drawing.Point(3, 312);
+            this.btnNeueFertigung.Name = "btnNeueFertigung";
+            this.btnNeueFertigung.Size = new System.Drawing.Size(183, 137);
+            this.btnNeueFertigung.Style = MetroFramework.MetroColorStyle.Blue;
+            this.btnNeueFertigung.TabIndex = 20;
+            this.btnNeueFertigung.Text = "Neuer Fertigung";
+            this.btnNeueFertigung.UseSelectable = true;
+            this.btnNeueFertigung.Click += new System.EventHandler(this.btnNeueFertigung_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -1359,6 +1374,7 @@
         private MetroFramework.Controls.MetroButton metroButton3;
         private MetroFramework.Controls.MetroButton metroButton2;
         private System.Windows.Forms.MenuStrip menuStrip1;
+        private MetroFramework.Controls.MetroButton btnNeueFertigung;
     }
 }
 

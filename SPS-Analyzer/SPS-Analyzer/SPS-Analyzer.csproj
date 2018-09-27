@@ -91,6 +91,13 @@
     <Compile Include="Fehleruebersicht.Designer.cs">
       <DependentUpon>Fehleruebersicht.cs</DependentUpon>
     </Compile>
+    <Compile Include="Fertigung.cs" />
+    <Compile Include="FertigungForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FertigungForm.Designer.cs">
+      <DependentUpon>FertigungForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +127,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Fehleruebersicht.resx">
       <DependentUpon>Fehleruebersicht.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FertigungForm.resx">
+      <DependentUpon>FertigungForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

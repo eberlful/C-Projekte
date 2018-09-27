@@ -22,6 +22,7 @@ namespace SPS_Analyzer
         private int db;
         private int dbByte;
         private int dbBit;
+        private List<Fertigung> fertigungList;
 
         public string IpAdresse
         {
@@ -80,6 +81,21 @@ namespace SPS_Analyzer
         public AddControl()
         {
             InitializeComponent();
+        }
+
+        public AddControl(List<Fertigung> fertigungen)
+        {
+            this.fertigungList = fertigungen;
+            InitializeComponent();
+            loadFertigungen();
+        }
+
+        private void loadFertigungen()
+        {
+            foreach (Fertigung item in fertigungList)
+            {
+                fertigungMenu.Items.Add(item.Name);
+            }
         }
 
         private void AddControl_Load(object sender, EventArgs e)

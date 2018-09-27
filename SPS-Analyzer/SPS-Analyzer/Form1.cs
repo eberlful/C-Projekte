@@ -19,7 +19,13 @@ namespace SPS_Analyzer
 {
     public partial class Form1 : MetroFramework.Forms.MetroForm
     {
+        /*
+         * Listen:
+         * - controlList   -> Liste aller Steuerungen
+         * - fertigungList -> Liste aller Fertigungen
+         */ 
         private List<Steuerung> controlList;
+        private List<Fertigung> fertiungList;
         public int anzahlEinträge = 0;
         public string cpuFile = @"cpu.xml";
         //CPU-Variablen
@@ -31,6 +37,20 @@ namespace SPS_Analyzer
         public bool verbindung = false;
         public bool ueberwachung = false;
         private ContextMenuStrip menuStripControl;
+
+        /*
+         * Einstellungen, die über den Button Einstellungen übergeben werden
+         * 
+         * 
+         * 
+         * 
+         * 
+         * 
+         */
+        private IPAddress dbIPAdresse;
+        private bool dbAktiv;
+        private bool dbLocalHost;
+        private String dbName;
 
         public Form1()
         {
@@ -574,6 +594,16 @@ namespace SPS_Analyzer
         {
             Einstellungen einstellungen = new Einstellungen();
             einstellungen.Show();
+        }
+
+        private void btnNeueFertigung_Click(object sender, EventArgs e)
+        {
+            FertigungForm fertigungForm = new FertigungForm();
+            if (fertigungForm.DialogResult == DialogResult.OK)
+            {
+                Fertigung fertigung = new Fertigung(fertigungForm.Name);
+                fertiungList.Add(fertigung);
+            }
         }
     }
 }
