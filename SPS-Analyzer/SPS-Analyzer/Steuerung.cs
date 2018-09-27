@@ -14,14 +14,15 @@ namespace SPS_Analyzer
         private int rack;
         private int slot;
         private String name;
-        private String fertigung;
+        //private String fertigung;
+        private Fertigung fertigung;
         private int datenbaustein;
         private int dbByte;
         private int dbBit;
         private int verbindung;
         private S7Client client;
 
-        public Steuerung(String ipAdresse, int rack, int slot, String name, String fertigung, int datenbaustein, int dbByte, int dbBit)
+        public Steuerung(String ipAdresse, int rack, int slot, String name, Fertigung fertigung, int datenbaustein, int dbByte, int dbBit)
         {
             this.fehlerListe = new List<Fehler>();
             this.ipAdresse = ipAdresse;

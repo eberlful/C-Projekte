@@ -59,7 +59,7 @@ namespace SPS_Analyzer
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            fertiungList = new List<Fertigung>();
             txtIP.Text = Properties.Settings.Default.ip;
             txtRack.Text = Properties.Settings.Default.rack.ToString();
             txtSlot.Text = Properties.Settings.Default.slot.ToString();
@@ -495,8 +495,8 @@ namespace SPS_Analyzer
                 metroListView2.Items.Add(item);
                 akuMenu();
                 MetroFramework.MetroMessageBox.Show(this, "IP-Adresse: " + metroTextBox1.Text + "\n" + "Rack: " + metroTextBox3.Text + "Slot: " + metroTextBox2.Text + "Name: " + metroTextBox6.Text + "Fertigung: " + metroTextBox7.Text + "DB" + metroTextBox8.Text + ".dbx" + metroTextBox4.Text + "." + metroTextBox5.Text);
-                Steuerung steuerung = new Steuerung(metroTextBox1.Text, Int32.Parse(metroTextBox3.Text), Int32.Parse(metroTextBox2.Text), metroTextBox6.Text, metroTextBox7.Text, Int32.Parse(metroTextBox8.Text), Int32.Parse(metroTextBox4.Text), Int32.Parse(metroTextBox5.Text));
-                comboBox1.Items.Add(steuerung.getName());
+                //Steuerung steuerung = new Steuerung(metroTextBox1.Text, Int32.Parse(metroTextBox3.Text), Int32.Parse(metroTextBox2.Text), metroTextBox6.Text, metroTextBox7.Text, Int32.Parse(metroTextBox8.Text), Int32.Parse(metroTextBox4.Text), Int32.Parse(metroTextBox5.Text));
+                //comboBox1.Items.Add(steuerung.getName());
                 deletePlaceholder();
             }
         }
@@ -530,13 +530,13 @@ namespace SPS_Analyzer
 
         private void btnAddControl_Click(object sender, EventArgs e)
         {
-            AddControl addControl = new AddControl();
+            AddControl addControl = new AddControl(fertiungList);
             if (addControl.ShowDialog() == DialogResult.OK)
             {
                 Steuerung control = new Steuerung(addControl.IpAdresse, addControl.Rack, addControl.Slot, addControl.Name, addControl.Fertigung, addControl.Db, addControl.DbByte, addControl.DbBit);
                 controlList.Add(control);
                 ListViewItem item = new ListViewItem(addControl.Name);
-                item.SubItems.Add(addControl.Fertigung);
+                item.SubItems.Add(addControl.Fertigung.Name);
                 item.SubItems.Add(addControl.IpAdresse);
                 item.SubItems.Add("DB" + addControl.Db + ".DBX" + addControl.DbByte + "." + addControl.DbBit);
                 item.SubItems.Add(control.checkOnline().ToString());
@@ -599,7 +599,8 @@ namespace SPS_Analyzer
         private void btnNeueFertigung_Click(object sender, EventArgs e)
         {
             FertigungForm fertigungForm = new FertigungForm();
-            if (fertigungForm.DialogResult == DialogResult.OK)
+            
+            if (fertigungForm.ShowDialog() == DialogResult.OK)
             {
                 Fertigung fertigung = new Fertigung(fertigungForm.Name);
                 fertiungList.Add(fertigung);

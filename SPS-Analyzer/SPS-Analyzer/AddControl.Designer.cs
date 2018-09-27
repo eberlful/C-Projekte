@@ -341,13 +341,6 @@
             // fertigungMenu
             // 
             this.fertigungMenu.FormattingEnabled = true;
-            this.fertigungMenu.Items.AddRange(new object[] {
-            "Bremsscheibe",
-            "Schwenklager",
-            "Radträger",
-            "Radnabe",
-            "Strukturteile",
-            "Druckguss"});
             this.fertigungMenu.Location = new System.Drawing.Point(110, 270);
             this.fertigungMenu.Name = "fertigungMenu";
             this.fertigungMenu.Size = new System.Drawing.Size(146, 21);

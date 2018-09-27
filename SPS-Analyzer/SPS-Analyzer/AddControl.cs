@@ -16,7 +16,7 @@ namespace SPS_Analyzer
         private string ipAdresse;
         private int rack;
         private int slot;
-        private String fertigung;
+        private Fertigung fertigung;
         private String name;
         private bool ueberwachung;
         private int db;
@@ -42,7 +42,7 @@ namespace SPS_Analyzer
             set { slot = value; }
         }
 
-        public String Fertigung
+        public Fertigung Fertigung
         {
             get { return fertigung; }
             set { fertigung = value; }
@@ -113,12 +113,20 @@ namespace SPS_Analyzer
             IpAdresse = txtIP.Text;
             Rack = Int32.Parse(txtRack.Text);
             Slot = Int32.Parse(txtSlot.Text);
-            Fertigung = fertigungMenu.Text;
+            //Fertigung = fertigungMenu.Text;
             Name = txtName.Text;
             Ueberwachung = checkBoxUeberwachung.Checked;
             Db = Int32.Parse(txtDB.Text);
             DbByte = Int32.Parse(txtByte.Text);
             DbBit = Int32.Parse(txtBit.Text);
+
+            foreach (Fertigung item in fertigungList)
+            {
+                if (fertigungMenu.Text.Equals(item.Name))
+                {
+                    Fertigung = item;
+                }
+            }
         }
 
         private void btnAdd_KeyPress(object sender, KeyPressEventArgs e)

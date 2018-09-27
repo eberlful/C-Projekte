@@ -51,3 +51,4 @@ C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\S
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Fehleruebersicht.resources
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.AnalyzeFehler.resources
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.Einstellungen.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\SPS-Analyzer\obj\Debug\SPS_Analyzer.FertigungForm.resources
