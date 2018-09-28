@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.txtIP = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
@@ -92,25 +93,28 @@
             this.columnAvailable = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.metroTabPage4 = new MetroFramework.Controls.MetroTabPage();
             this.metroListView3 = new MetroFramework.Controls.MetroListView();
-            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeaderFehler = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeaderFertigung = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeaderSteuerung = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeaderDatum = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeaderZuletzt = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.metroTabPage5 = new MetroFramework.Controls.MetroTabPage();
+            this.btnNeueFertigung = new MetroFramework.Controls.MetroButton();
             this.metroButton8 = new MetroFramework.Controls.MetroButton();
             this.metroButton7 = new MetroFramework.Controls.MetroButton();
             this.metroButton6 = new MetroFramework.Controls.MetroButton();
             this.metroButton5 = new MetroFramework.Controls.MetroButton();
-            this.metroButton4 = new MetroFramework.Controls.MetroButton();
+            this.btnStart = new MetroFramework.Controls.MetroButton();
             this.metroButton3 = new MetroFramework.Controls.MetroButton();
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.btnAddControl = new MetroFramework.Controls.MetroButton();
             this.btnThreadStart = new MetroFramework.Controls.MetroButton();
             this.btnThreadingStop = new MetroFramework.Controls.MetroButton();
             this.btnPLCScan = new MetroFramework.Controls.MetroButton();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.btnNeueFertigung = new MetroFramework.Controls.MetroButton();
+            this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.anzeigenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.beendenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -119,6 +123,7 @@
             this.metroTabPage3.SuspendLayout();
             this.metroTabPage4.SuspendLayout();
             this.metroTabPage5.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // metroLabel1
@@ -244,7 +249,7 @@
             // 
             // btnExit
             // 
-            this.btnExit.Location = new System.Drawing.Point(792, 588);
+            this.btnExit.Location = new System.Drawing.Point(957, 621);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(75, 23);
             this.btnExit.TabIndex = 8;
@@ -316,10 +321,10 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage3);
             this.metroTabControl1.Controls.Add(this.metroTabPage4);
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
-            this.metroTabControl1.Location = new System.Drawing.Point(23, 54);
+            this.metroTabControl1.Location = new System.Drawing.Point(23, 63);
             this.metroTabControl1.Name = "metroTabControl1";
             this.metroTabControl1.SelectedIndex = 4;
-            this.metroTabControl1.Size = new System.Drawing.Size(831, 515);
+            this.metroTabControl1.Size = new System.Drawing.Size(1009, 515);
             this.metroTabControl1.TabIndex = 16;
             this.metroTabControl1.UseSelectable = true;
             // 
@@ -332,7 +337,7 @@
             this.metroTabPage1.HorizontalScrollbarSize = 10;
             this.metroTabPage1.Location = new System.Drawing.Point(4, 38);
             this.metroTabPage1.Name = "metroTabPage1";
-            this.metroTabPage1.Size = new System.Drawing.Size(823, 473);
+            this.metroTabPage1.Size = new System.Drawing.Size(1001, 473);
             this.metroTabPage1.TabIndex = 0;
             this.metroTabPage1.Text = "Verwaltung";
             this.metroTabPage1.VerticalScrollbarBarColor = true;
@@ -879,7 +884,7 @@
             this.metroTabPage2.HorizontalScrollbarSize = 10;
             this.metroTabPage2.Location = new System.Drawing.Point(4, 38);
             this.metroTabPage2.Name = "metroTabPage2";
-            this.metroTabPage2.Size = new System.Drawing.Size(823, 473);
+            this.metroTabPage2.Size = new System.Drawing.Size(1001, 473);
             this.metroTabPage2.TabIndex = 1;
             this.metroTabPage2.Text = "Liste-Offline";
             this.metroTabPage2.VerticalScrollbarBarColor = true;
@@ -961,7 +966,7 @@
             this.metroTabPage3.HorizontalScrollbarSize = 10;
             this.metroTabPage3.Location = new System.Drawing.Point(4, 38);
             this.metroTabPage3.Name = "metroTabPage3";
-            this.metroTabPage3.Size = new System.Drawing.Size(823, 473);
+            this.metroTabPage3.Size = new System.Drawing.Size(1001, 473);
             this.metroTabPage3.TabIndex = 2;
             this.metroTabPage3.Text = "Steuerungen";
             this.metroTabPage3.VerticalScrollbarBarColor = true;
@@ -981,7 +986,7 @@
             this.metroListView2.Location = new System.Drawing.Point(14, 11);
             this.metroListView2.Name = "metroListView2";
             this.metroListView2.OwnerDraw = true;
-            this.metroListView2.Size = new System.Drawing.Size(795, 462);
+            this.metroListView2.Size = new System.Drawing.Size(967, 492);
             this.metroListView2.TabIndex = 3;
             this.metroListView2.UseCompatibleStateImageBehavior = false;
             this.metroListView2.UseSelectable = true;
@@ -1001,17 +1006,17 @@
             // columnIP
             // 
             this.columnIP.Text = "IP-Adresse:";
-            this.columnIP.Width = 129;
+            this.columnIP.Width = 154;
             // 
             // columnBDE
             // 
             this.columnBDE.Text = "BDE - run";
-            this.columnBDE.Width = 153;
+            this.columnBDE.Width = 186;
             // 
             // columnAvailable
             // 
             this.columnAvailable.Text = "Verfügbar:";
-            this.columnAvailable.Width = 139;
+            this.columnAvailable.Width = 155;
             // 
             // metroTabPage4
             // 
@@ -1021,7 +1026,7 @@
             this.metroTabPage4.HorizontalScrollbarSize = 10;
             this.metroTabPage4.Location = new System.Drawing.Point(4, 38);
             this.metroTabPage4.Name = "metroTabPage4";
-            this.metroTabPage4.Size = new System.Drawing.Size(823, 473);
+            this.metroTabPage4.Size = new System.Drawing.Size(1001, 473);
             this.metroTabPage4.TabIndex = 3;
             this.metroTabPage4.Text = "Aktuelle Zustände";
             this.metroTabPage4.VerticalScrollbarBarColor = true;
@@ -1031,46 +1036,46 @@
             // metroListView3
             // 
             this.metroListView3.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
-            this.columnHeader1,
-            this.columnHeader2,
-            this.columnHeader3,
-            this.columnHeader4,
-            this.columnHeader5});
+            this.columnHeaderFehler,
+            this.columnHeaderFertigung,
+            this.columnHeaderSteuerung,
+            this.columnHeaderDatum,
+            this.columnHeaderZuletzt});
             this.metroListView3.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.metroListView3.FullRowSelect = true;
             this.metroListView3.Location = new System.Drawing.Point(14, 11);
             this.metroListView3.Name = "metroListView3";
             this.metroListView3.OwnerDraw = true;
-            this.metroListView3.Size = new System.Drawing.Size(795, 459);
+            this.metroListView3.Size = new System.Drawing.Size(968, 459);
             this.metroListView3.TabIndex = 4;
             this.metroListView3.UseCompatibleStateImageBehavior = false;
             this.metroListView3.UseSelectable = true;
             this.metroListView3.View = System.Windows.Forms.View.Details;
             // 
-            // columnHeader1
+            // columnHeaderFehler
             // 
-            this.columnHeader1.Text = "Name:";
-            this.columnHeader1.Width = 156;
+            this.columnHeaderFehler.Text = "Fehler:";
+            this.columnHeaderFehler.Width = 288;
             // 
-            // columnHeader2
+            // columnHeaderFertigung
             // 
-            this.columnHeader2.Text = "Fertigung:";
-            this.columnHeader2.Width = 172;
+            this.columnHeaderFertigung.Text = "Fertigung:";
+            this.columnHeaderFertigung.Width = 172;
             // 
-            // columnHeader3
+            // columnHeaderSteuerung
             // 
-            this.columnHeader3.Text = "IP-Adresse:";
-            this.columnHeader3.Width = 129;
+            this.columnHeaderSteuerung.Text = "Steuerung:";
+            this.columnHeaderSteuerung.Width = 162;
             // 
-            // columnHeader4
+            // columnHeaderDatum
             // 
-            this.columnHeader4.Text = "BDE - run";
-            this.columnHeader4.Width = 153;
+            this.columnHeaderDatum.Text = "Datum:";
+            this.columnHeaderDatum.Width = 150;
             // 
-            // columnHeader5
+            // columnHeaderZuletzt
             // 
-            this.columnHeader5.Text = "Verfügbar:";
-            this.columnHeader5.Width = 139;
+            this.columnHeaderZuletzt.Text = "Zuletzt:";
+            this.columnHeaderZuletzt.Width = 174;
             // 
             // metroTabPage5
             // 
@@ -1079,7 +1084,7 @@
             this.metroTabPage5.Controls.Add(this.metroButton7);
             this.metroTabPage5.Controls.Add(this.metroButton6);
             this.metroTabPage5.Controls.Add(this.metroButton5);
-            this.metroTabPage5.Controls.Add(this.metroButton4);
+            this.metroTabPage5.Controls.Add(this.btnStart);
             this.metroTabPage5.Controls.Add(this.metroButton3);
             this.metroTabPage5.Controls.Add(this.metroButton2);
             this.metroTabPage5.Controls.Add(this.btnAddControl);
@@ -1088,12 +1093,25 @@
             this.metroTabPage5.HorizontalScrollbarSize = 10;
             this.metroTabPage5.Location = new System.Drawing.Point(4, 38);
             this.metroTabPage5.Name = "metroTabPage5";
-            this.metroTabPage5.Size = new System.Drawing.Size(823, 473);
+            this.metroTabPage5.Size = new System.Drawing.Size(1001, 473);
             this.metroTabPage5.TabIndex = 4;
             this.metroTabPage5.Text = "Start-Menü";
             this.metroTabPage5.VerticalScrollbarBarColor = true;
             this.metroTabPage5.VerticalScrollbarHighlightOnWheel = false;
             this.metroTabPage5.VerticalScrollbarSize = 10;
+            // 
+            // btnNeueFertigung
+            // 
+            this.btnNeueFertigung.FontSize = MetroFramework.MetroButtonSize.Tall;
+            this.btnNeueFertigung.Highlight = true;
+            this.btnNeueFertigung.Location = new System.Drawing.Point(202, 156);
+            this.btnNeueFertigung.Name = "btnNeueFertigung";
+            this.btnNeueFertigung.Size = new System.Drawing.Size(183, 137);
+            this.btnNeueFertigung.Style = MetroFramework.MetroColorStyle.Blue;
+            this.btnNeueFertigung.TabIndex = 20;
+            this.btnNeueFertigung.Text = "Neuer Fertigung";
+            this.btnNeueFertigung.UseSelectable = true;
+            this.btnNeueFertigung.Click += new System.EventHandler(this.btnNeueFertigung_Click);
             // 
             // metroButton8
             // 
@@ -1118,6 +1136,7 @@
             this.metroButton7.TabIndex = 18;
             this.metroButton7.Text = "Statistik";
             this.metroButton7.UseSelectable = true;
+            this.metroButton7.Click += new System.EventHandler(this.metroButton7_Click);
             // 
             // metroButton6
             // 
@@ -1143,17 +1162,18 @@
             this.metroButton5.Text = "Anmeldung";
             this.metroButton5.UseSelectable = true;
             // 
-            // metroButton4
+            // btnStart
             // 
-            this.metroButton4.FontSize = MetroFramework.MetroButtonSize.Tall;
-            this.metroButton4.Highlight = true;
-            this.metroButton4.Location = new System.Drawing.Point(202, 156);
-            this.metroButton4.Name = "metroButton4";
-            this.metroButton4.Size = new System.Drawing.Size(183, 137);
-            this.metroButton4.Style = MetroFramework.MetroColorStyle.Blue;
-            this.metroButton4.TabIndex = 15;
-            this.metroButton4.Text = "Start";
-            this.metroButton4.UseSelectable = true;
+            this.btnStart.FontSize = MetroFramework.MetroButtonSize.Tall;
+            this.btnStart.Highlight = true;
+            this.btnStart.Location = new System.Drawing.Point(805, 3);
+            this.btnStart.Name = "btnStart";
+            this.btnStart.Size = new System.Drawing.Size(183, 137);
+            this.btnStart.Style = MetroFramework.MetroColorStyle.Blue;
+            this.btnStart.TabIndex = 15;
+            this.btnStart.Text = "Start";
+            this.btnStart.UseSelectable = true;
+            this.btnStart.Click += new System.EventHandler(this.metroButton4_Click);
             // 
             // metroButton3
             // 
@@ -1197,7 +1217,7 @@
             // btnThreadStart
             // 
             this.btnThreadStart.Enabled = false;
-            this.btnThreadStart.Location = new System.Drawing.Point(711, 588);
+            this.btnThreadStart.Location = new System.Drawing.Point(876, 621);
             this.btnThreadStart.Name = "btnThreadStart";
             this.btnThreadStart.Size = new System.Drawing.Size(75, 23);
             this.btnThreadStart.TabIndex = 17;
@@ -1208,7 +1228,7 @@
             // btnThreadingStop
             // 
             this.btnThreadingStop.Enabled = false;
-            this.btnThreadingStop.Location = new System.Drawing.Point(630, 588);
+            this.btnThreadingStop.Location = new System.Drawing.Point(795, 621);
             this.btnThreadingStop.Name = "btnThreadingStop";
             this.btnThreadingStop.Size = new System.Drawing.Size(75, 23);
             this.btnThreadingStop.TabIndex = 18;
@@ -1226,33 +1246,39 @@
             this.btnPLCScan.UseSelectable = true;
             this.btnPLCScan.Click += new System.EventHandler(this.btnPLCScan_Click);
             // 
-            // menuStrip1
+            // notifyIcon1
             // 
-            this.menuStrip1.Location = new System.Drawing.Point(20, 60);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(850, 24);
-            this.menuStrip1.TabIndex = 20;
-            this.menuStrip1.Text = "menuStrip1";
-            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
+            this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
+            this.notifyIcon1.Text = "notifyIcon1";
+            this.notifyIcon1.Visible = true;
+            this.notifyIcon1.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.notifyIcon1_MouseDoubleClick);
             // 
-            // btnNeueFertigung
+            // contextMenuStrip1
             // 
-            this.btnNeueFertigung.FontSize = MetroFramework.MetroButtonSize.Tall;
-            this.btnNeueFertigung.Highlight = true;
-            this.btnNeueFertigung.Location = new System.Drawing.Point(3, 312);
-            this.btnNeueFertigung.Name = "btnNeueFertigung";
-            this.btnNeueFertigung.Size = new System.Drawing.Size(183, 137);
-            this.btnNeueFertigung.Style = MetroFramework.MetroColorStyle.Blue;
-            this.btnNeueFertigung.TabIndex = 20;
-            this.btnNeueFertigung.Text = "Neuer Fertigung";
-            this.btnNeueFertigung.UseSelectable = true;
-            this.btnNeueFertigung.Click += new System.EventHandler(this.btnNeueFertigung_Click);
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.anzeigenToolStripMenuItem,
+            this.beendenToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(124, 48);
+            // 
+            // anzeigenToolStripMenuItem
+            // 
+            this.anzeigenToolStripMenuItem.Name = "anzeigenToolStripMenuItem";
+            this.anzeigenToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.anzeigenToolStripMenuItem.Text = "Anzeigen";
+            // 
+            // beendenToolStripMenuItem
+            // 
+            this.beendenToolStripMenuItem.Name = "beendenToolStripMenuItem";
+            this.beendenToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
+            this.beendenToolStripMenuItem.Text = "Beenden";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(890, 623);
+            this.ClientSize = new System.Drawing.Size(1055, 667);
+            this.ControlBox = false;
             this.Controls.Add(this.btnPLCScan);
             this.Controls.Add(this.btnThreadingStop);
             this.Controls.Add(this.btnThreadStart);
@@ -1270,10 +1296,9 @@
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.txtIP);
             this.Controls.Add(this.metroLabel1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "SPS-Connector";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.metroTabControl1.ResumeLayout(false);
             this.metroTabPage1.ResumeLayout(false);
@@ -1285,6 +1310,7 @@
             this.metroTabPage3.ResumeLayout(false);
             this.metroTabPage4.ResumeLayout(false);
             this.metroTabPage5.ResumeLayout(false);
+            this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1359,22 +1385,25 @@
         private MetroFramework.Controls.MetroTextBox metroTextBox8;
         private MetroFramework.Controls.MetroTabPage metroTabPage4;
         private MetroFramework.Controls.MetroListView metroListView3;
-        private System.Windows.Forms.ColumnHeader columnHeader1;
-        private System.Windows.Forms.ColumnHeader columnHeader2;
-        private System.Windows.Forms.ColumnHeader columnHeader3;
-        private System.Windows.Forms.ColumnHeader columnHeader4;
-        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.ColumnHeader columnHeaderFehler;
+        private System.Windows.Forms.ColumnHeader columnHeaderFertigung;
+        private System.Windows.Forms.ColumnHeader columnHeaderSteuerung;
+        private System.Windows.Forms.ColumnHeader columnHeaderDatum;
+        private System.Windows.Forms.ColumnHeader columnHeaderZuletzt;
         private MetroFramework.Controls.MetroTabPage metroTabPage5;
         private MetroFramework.Controls.MetroButton btnAddControl;
         private MetroFramework.Controls.MetroButton metroButton8;
         private MetroFramework.Controls.MetroButton metroButton7;
         private MetroFramework.Controls.MetroButton metroButton6;
         private MetroFramework.Controls.MetroButton metroButton5;
-        private MetroFramework.Controls.MetroButton metroButton4;
+        private MetroFramework.Controls.MetroButton btnStart;
         private MetroFramework.Controls.MetroButton metroButton3;
         private MetroFramework.Controls.MetroButton metroButton2;
-        private System.Windows.Forms.MenuStrip menuStrip1;
         private MetroFramework.Controls.MetroButton btnNeueFertigung;
+        private System.Windows.Forms.NotifyIcon notifyIcon1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem anzeigenToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem beendenToolStripMenuItem;
     }
 }
 

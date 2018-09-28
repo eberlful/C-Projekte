@@ -23,15 +23,31 @@ namespace SPS_Analyzer
         private ThreadExceptionDialog cpuThread;
         private double[] cpuArray = new double[30];
         private double[] ramArray = new double[30];
+        private int akuRate;
         public Einstellungen()
         {
             InitializeComponent();
         }
 
+        public Einstellungen(bool dbAktiv, bool localHost, String dbName, IPAddress ip, int aku)
+        {
+            InitializeComponent();
+            this.dbAktiv = dbAktiv;
+            this.DbLocalHost = localHost;
+            this.dbNamen = dbName;
+            this.ipDB = ip;
+            this.akuRate = aku;
+        }
+
         private void Einstellungen_Load(object sender, EventArgs e)
         {
             threadInit();
-
+            btnSpeichern.DialogResult = DialogResult.OK;
+            txtIP.Text = ipDB.ToString();
+            txtDBName.Text = dbNamen;
+            checkBoxAktivieren.Checked = dbAktiv;
+            checkBoxLocalHost.Checked = dbLocalhost;
+            txtAKU.Text = akuRate.ToString();
         }
 
         private void threadInit()
@@ -88,6 +104,7 @@ namespace SPS_Analyzer
                 } 
                 dbNamen = txtDBName.Text;
                 dbAktiv = checkBoxAktivieren.Checked;
+                akuRate = Int32.Parse(txtAKU.Text);
             }
             catch (Exception ex)
             {
@@ -118,6 +135,17 @@ namespace SPS_Analyzer
         {
             get { return dbNamen; }
             set { dbNamen = value; }
+        }
+
+        public int AkuRate
+        {
+            get { return akuRate; }
+            set { akuRate = value; }
+        }
+
+        private void metroTextBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

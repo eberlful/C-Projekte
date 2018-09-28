@@ -23,9 +23,12 @@ namespace SPS_Analyzer
          * Listen:
          * - controlList   -> Liste aller Steuerungen
          * - fertigungList -> Liste aller Fertigungen
+         * - threadList    -> Liste aller Threads
          */ 
         private List<Steuerung> controlList;
         private List<Fertigung> fertiungList;
+        private Thread[] threadList;
+
         public int anzahlEinträge = 0;
         public string cpuFile = @"cpu.xml";
         //CPU-Variablen
@@ -51,6 +54,7 @@ namespace SPS_Analyzer
         private bool dbAktiv;
         private bool dbLocalHost;
         private String dbName;
+        private int akuRate;
 
         public Form1()
         {
@@ -59,13 +63,35 @@ namespace SPS_Analyzer
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //Lade aus Einstellungen
+            dbAktiv = Properties.Settings.Default.dbAktiv;
+            dbLocalHost = Properties.Settings.Default.dbLocalHost;
+            dbIPAdresse = IPAddress.Parse(Properties.Settings.Default.dbIPAdresse);
+            dbName = Properties.Settings.Default.dbName;
+            akuRate = Properties.Settings.Default.akuRate;
+            //Sichtbarkeit
+            lblStatus.Visible = false;
+            btnPLCScan.Visible = false;
+            btnPLCScan.Enabled = false;
+            metroLabel3.Visible = false;
+            btnThreadingStop.Enabled = false;
+            btnThreadingStop.Visible = false;
+            btnThreadStart.Enabled = false;
+            btnThreadStart.Visible = false;
+            btnCPURun.Enabled = false;
+            btnCPURun.Visible = false;
+            //metroTabControl1.Enabled = false;
+            //metroTabControl1.Visible = false;
+            metroTabPage1.Enabled = false;
+            metroTabControl1.HideTab(metroTabPage1);
+            metroTabControl1.HideTab(metroTabPage2);
             fertiungList = new List<Fertigung>();
-            txtIP.Text = Properties.Settings.Default.ip;
-            txtRack.Text = Properties.Settings.Default.rack.ToString();
-            txtSlot.Text = Properties.Settings.Default.slot.ToString();
-            rack = Properties.Settings.Default.rack;
-            slot = Properties.Settings.Default.slot;
-            ip = Properties.Settings.Default.ip;
+            //txtIP.Text = Properties.Settings.Default.ip;
+            //txtRack.Text = Properties.Settings.Default.rack.ToString();
+            //txtSlot.Text = Properties.Settings.Default.fg.ToString();
+            //rack = Properties.Settings.Default.rack;
+            //slot = Properties.Settings.Default.fg;
+            //ip = Properties.Settings.Default.ip;
             lblStatus.Text = "";
             //GetIPv4();
             IPAddress adr = GetIPv4();
@@ -77,14 +103,16 @@ namespace SPS_Analyzer
             menuStripControl.Items.Add("Anzeigen");
             //menuStripControl.Items.Add();
             metroListView2.ContextMenuStrip = menuStripControl;
+
+            
         }
 
         private void speichernEingaben()
         {
-            Properties.Settings.Default.ip = txtIP.Text;
-            Properties.Settings.Default.slot = Int32.Parse(txtSlot.Text);
-            Properties.Settings.Default.rack = Int32.Parse(txtRack.Text);
-            Properties.Settings.Default.Save();
+            //Properties.Settings.Default.ip = txtIP.Text;
+            //Properties.Settings.Default.fg = Int32.Parse(txtSlot.Text);
+            //Properties.Settings.Default.rack = Int32.Parse(txtRack.Text);
+            //Properties.Settings.Default.Save();
         }
 
         private void btnVerbinden_Click(object sender, EventArgs e)
@@ -203,7 +231,12 @@ namespace SPS_Analyzer
                 this.Close();
             } else
             {
-                this.Close();
+                this.WindowState = FormWindowState.Minimized;
+                notifyIcon1.Icon = SystemIcons.Application;
+                notifyIcon1.BalloonTipText = "Anwendung minimiert";
+                notifyIcon1.BalloonTipTitle = "Windows-Event";
+                notifyIcon1.ShowBalloonTip(10000);
+                //this.Close();
             }        
         }
 
@@ -592,8 +625,23 @@ namespace SPS_Analyzer
 
         private void metroButton2_Click(object sender, EventArgs e)
         {
-            Einstellungen einstellungen = new Einstellungen();
-            einstellungen.Show();
+            Einstellungen einstellungen = new Einstellungen(dbAktiv, dbLocalHost, dbName, dbIPAdresse, akuRate);
+            if (einstellungen.ShowDialog() == DialogResult.OK)
+            {
+                dbAktiv = einstellungen.DbAktiv;
+                dbLocalHost = einstellungen.DbLocalHost;
+                dbIPAdresse = einstellungen.IpDB;
+                dbName = einstellungen.DbNamen;
+                akuRate = einstellungen.AkuRate;
+                //Lokal Speichern
+                Properties.Settings.Default.dbAktiv = dbAktiv;
+                Properties.Settings.Default.dbLocalHost = dbLocalHost;
+                Properties.Settings.Default.dbName = dbName;
+                Properties.Settings.Default.dbIPAdresse = dbIPAdresse.ToString();
+                Properties.Settings.Default.akuRate = akuRate;
+                Properties.Settings.Default.Save();
+            }
+            //einstellungen.Show();
         }
 
         private void btnNeueFertigung_Click(object sender, EventArgs e)
@@ -605,6 +653,66 @@ namespace SPS_Analyzer
                 Fertigung fertigung = new Fertigung(fertigungForm.Name);
                 fertiungList.Add(fertigung);
             }
+        }
+
+        private void metroButton4_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (fertiungList.Count == 0)
+                {
+                    MetroFramework.MetroMessageBox.Show(this, "Es wurde keine Fertiung erzeugt", "Thread-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    threadList = new Thread[fertiungList.Count];
+                    int i = 0;
+                    foreach (Fertigung item in fertiungList)
+                    {
+
+                        //ParameterizedThreadStart pts = new ParameterizedThreadStart(this.threadFertigung);
+                        //System.Threading.Thread thread = new System.Threading.Thread(new System.Threading.ThreadStart(threadFertigung));
+                        //thread.Start(item);
+                        Thread thread = new Thread(delegate () { this.threadFertigung(item); });
+                        thread.Start();
+                        threadList[i] = thread;
+                        i++;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MetroFramework.MetroMessageBox.Show(this, ex.Message + "\n" + ex.StackTrace, "Startfehler");
+            }
+        }
+
+        private void threadFertigung(Fertigung fertigung)
+        {
+
+            Console.WriteLine(fertigung.Name);
+        }
+
+        private void metroButton7_Click(object sender, EventArgs e)
+        {
+            if (dbAktiv)
+            {
+                Statistik statistik = new Statistik(dbIPAdresse, dbName);
+                statistik.Show();
+            }
+            else
+            {
+                MetroFramework.MetroMessageBox.Show(this, "Es ist keine Datenbank aktiv. \n Bitte registrieren Sie eine Datenbank", "Datenbank-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
+        private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
         }
     }
 }

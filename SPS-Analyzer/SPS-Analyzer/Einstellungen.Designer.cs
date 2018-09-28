@@ -38,13 +38,18 @@
             this.txtIP = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.checkBoxAktivieren = new System.Windows.Forms.CheckBox();
-            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
-            this.txtDBName = new MetroFramework.Controls.MetroTextBox();
             this.checkBoxLocalHost = new System.Windows.Forms.CheckBox();
+            this.txtDBName = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
+            this.checkBoxAktivieren = new System.Windows.Forms.CheckBox();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
+            this.txtAKU = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.cpuChart)).BeginInit();
             this.groupBox2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnSpeichern
@@ -143,24 +148,15 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Datenbank";
             // 
-            // checkBoxAktivieren
+            // checkBoxLocalHost
             // 
-            this.checkBoxAktivieren.AutoSize = true;
-            this.checkBoxAktivieren.Location = new System.Drawing.Point(404, 75);
-            this.checkBoxAktivieren.Name = "checkBoxAktivieren";
-            this.checkBoxAktivieren.Size = new System.Drawing.Size(73, 17);
-            this.checkBoxAktivieren.TabIndex = 42;
-            this.checkBoxAktivieren.Text = "Aktivieren";
-            this.checkBoxAktivieren.UseVisualStyleBackColor = true;
-            // 
-            // metroLabel1
-            // 
-            this.metroLabel1.AutoSize = true;
-            this.metroLabel1.Location = new System.Drawing.Point(6, 69);
-            this.metroLabel1.Name = "metroLabel1";
-            this.metroLabel1.Size = new System.Drawing.Size(107, 19);
-            this.metroLabel1.TabIndex = 43;
-            this.metroLabel1.Text = "Datenbankname:";
+            this.checkBoxLocalHost.AutoSize = true;
+            this.checkBoxLocalHost.Location = new System.Drawing.Point(404, 31);
+            this.checkBoxLocalHost.Name = "checkBoxLocalHost";
+            this.checkBoxLocalHost.Size = new System.Drawing.Size(72, 17);
+            this.checkBoxLocalHost.TabIndex = 45;
+            this.checkBoxLocalHost.Text = "Localhost";
+            this.checkBoxLocalHost.UseVisualStyleBackColor = true;
             // 
             // txtDBName
             // 
@@ -192,21 +188,92 @@
             this.txtDBName.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtDBName.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
-            // checkBoxLocalHost
+            // metroLabel1
             // 
-            this.checkBoxLocalHost.AutoSize = true;
-            this.checkBoxLocalHost.Location = new System.Drawing.Point(404, 31);
-            this.checkBoxLocalHost.Name = "checkBoxLocalHost";
-            this.checkBoxLocalHost.Size = new System.Drawing.Size(72, 17);
-            this.checkBoxLocalHost.TabIndex = 45;
-            this.checkBoxLocalHost.Text = "Localhost";
-            this.checkBoxLocalHost.UseVisualStyleBackColor = true;
+            this.metroLabel1.AutoSize = true;
+            this.metroLabel1.Location = new System.Drawing.Point(6, 69);
+            this.metroLabel1.Name = "metroLabel1";
+            this.metroLabel1.Size = new System.Drawing.Size(107, 19);
+            this.metroLabel1.TabIndex = 43;
+            this.metroLabel1.Text = "Datenbankname:";
+            // 
+            // checkBoxAktivieren
+            // 
+            this.checkBoxAktivieren.AutoSize = true;
+            this.checkBoxAktivieren.Location = new System.Drawing.Point(404, 75);
+            this.checkBoxAktivieren.Name = "checkBoxAktivieren";
+            this.checkBoxAktivieren.Size = new System.Drawing.Size(73, 17);
+            this.checkBoxAktivieren.TabIndex = 42;
+            this.checkBoxAktivieren.Text = "Aktivieren";
+            this.checkBoxAktivieren.UseVisualStyleBackColor = true;
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.metroLabel3);
+            this.groupBox3.Controls.Add(this.txtAKU);
+            this.groupBox3.Controls.Add(this.metroLabel2);
+            this.groupBox3.Location = new System.Drawing.Point(23, 192);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Size = new System.Drawing.Size(483, 157);
+            this.groupBox3.TabIndex = 43;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Servereinstellungen";
+            // 
+            // metroLabel2
+            // 
+            this.metroLabel2.AutoSize = true;
+            this.metroLabel2.Location = new System.Drawing.Point(6, 30);
+            this.metroLabel2.Name = "metroLabel2";
+            this.metroLabel2.Size = new System.Drawing.Size(121, 19);
+            this.metroLabel2.TabIndex = 46;
+            this.metroLabel2.Text = "Aktuallisierungszeit:";
+            // 
+            // txtAKU
+            // 
+            // 
+            // 
+            // 
+            this.txtAKU.CustomButton.Image = null;
+            this.txtAKU.CustomButton.Location = new System.Drawing.Point(66, 1);
+            this.txtAKU.CustomButton.Name = "";
+            this.txtAKU.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.txtAKU.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
+            this.txtAKU.CustomButton.TabIndex = 1;
+            this.txtAKU.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
+            this.txtAKU.CustomButton.UseSelectable = true;
+            this.txtAKU.CustomButton.Visible = false;
+            this.txtAKU.Lines = new string[0];
+            this.txtAKU.Location = new System.Drawing.Point(133, 30);
+            this.txtAKU.MaxLength = 32767;
+            this.txtAKU.Name = "txtAKU";
+            this.txtAKU.PasswordChar = '\0';
+            this.txtAKU.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtAKU.SelectedText = "";
+            this.txtAKU.SelectionLength = 0;
+            this.txtAKU.SelectionStart = 0;
+            this.txtAKU.ShortcutsEnabled = true;
+            this.txtAKU.Size = new System.Drawing.Size(88, 23);
+            this.txtAKU.TabIndex = 46;
+            this.txtAKU.UseSelectable = true;
+            this.txtAKU.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            this.txtAKU.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            this.txtAKU.Click += new System.EventHandler(this.metroTextBox1_Click);
+            // 
+            // metroLabel3
+            // 
+            this.metroLabel3.AutoSize = true;
+            this.metroLabel3.Location = new System.Drawing.Point(227, 30);
+            this.metroLabel3.Name = "metroLabel3";
+            this.metroLabel3.Size = new System.Drawing.Size(26, 19);
+            this.metroLabel3.TabIndex = 47;
+            this.metroLabel3.Text = "ms";
             // 
             // Einstellungen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1025, 636);
+            this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnSpeichern);
@@ -217,6 +284,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.cpuChart)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -233,5 +302,9 @@
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private System.Windows.Forms.CheckBox checkBoxAktivieren;
         private System.Windows.Forms.CheckBox checkBoxLocalHost;
+        private MetroFramework.Controls.MetroTextBox txtAKU;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private MetroFramework.Controls.MetroLabel metroLabel2;
+        private MetroFramework.Controls.MetroLabel metroLabel3;
     }
 }
