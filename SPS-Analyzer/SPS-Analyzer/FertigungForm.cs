@@ -13,6 +13,7 @@ namespace SPS_Analyzer
     public partial class FertigungForm : MetroFramework.Forms.MetroForm
     {
         private String name;
+        private Int32 number;
 
         public FertigungForm()
         {
@@ -26,6 +27,7 @@ namespace SPS_Analyzer
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            this.number = Int32.Parse(anzahlLinien.Value.ToString());
             this.name = txtName.Text;
         }
 
@@ -33,6 +35,12 @@ namespace SPS_Analyzer
         {
             get { return name; }
             set { name = value; }
+        }
+
+        public Int32 Number
+        {
+            get { return number; }
+            set { number = value; }
         }
     }
 }

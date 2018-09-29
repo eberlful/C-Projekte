@@ -46,6 +46,8 @@
             this.fertigungMenu = new System.Windows.Forms.ComboBox();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel2 = new MetroFramework.Controls.MetroLabel();
+            this.linienMenu = new System.Windows.Forms.ComboBox();
+            this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
             this.SuspendLayout();
             // 
             // txtDB
@@ -81,7 +83,7 @@
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(287, 272);
+            this.btnAdd.Location = new System.Drawing.Point(288, 306);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(92, 23);
             this.btnAdd.TabIndex = 8;
@@ -345,6 +347,7 @@
             this.fertigungMenu.Name = "fertigungMenu";
             this.fertigungMenu.Size = new System.Drawing.Size(146, 21);
             this.fertigungMenu.TabIndex = 7;
+            this.fertigungMenu.SelectedIndexChanged += new System.EventHandler(this.fertigungMenu_SelectedIndexChanged);
             // 
             // metroLabel1
             // 
@@ -365,11 +368,30 @@
             this.metroLabel2.Text = "DB";
             this.metroLabel2.Click += new System.EventHandler(this.metroLabel2_Click);
             // 
+            // linienMenu
+            // 
+            this.linienMenu.FormattingEnabled = true;
+            this.linienMenu.Location = new System.Drawing.Point(110, 306);
+            this.linienMenu.Name = "linienMenu";
+            this.linienMenu.Size = new System.Drawing.Size(146, 21);
+            this.linienMenu.TabIndex = 56;
+            // 
+            // metroLabel3
+            // 
+            this.metroLabel3.AutoSize = true;
+            this.metroLabel3.Location = new System.Drawing.Point(54, 308);
+            this.metroLabel3.Name = "metroLabel3";
+            this.metroLabel3.Size = new System.Drawing.Size(38, 19);
+            this.metroLabel3.TabIndex = 57;
+            this.metroLabel3.Text = "Linie:";
+            // 
             // AddControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(423, 323);
+            this.ClientSize = new System.Drawing.Size(411, 356);
+            this.Controls.Add(this.linienMenu);
+            this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.metroLabel2);
             this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.fertigungMenu);
@@ -416,5 +438,7 @@
         private System.Windows.Forms.ComboBox fertigungMenu;
         private MetroFramework.Controls.MetroLabel metroLabel1;
         private MetroFramework.Controls.MetroLabel metroLabel2;
+        private System.Windows.Forms.ComboBox linienMenu;
+        private MetroFramework.Controls.MetroLabel metroLabel3;
     }
 }

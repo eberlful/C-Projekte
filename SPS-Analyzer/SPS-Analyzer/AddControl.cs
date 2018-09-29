@@ -23,7 +23,7 @@ namespace SPS_Analyzer
         private int dbByte;
         private int dbBit;
         private List<Fertigung> fertigungList;
-
+        private Linie linie;
         public string IpAdresse
         {
             get { return ipAdresse; }
@@ -78,6 +78,12 @@ namespace SPS_Analyzer
             set { dbBit = value; }
         }
 
+        public Linie Linie
+        {
+            get { return linie; }
+            set { linie = value; }
+        }
+
         public AddControl()
         {
             InitializeComponent();
@@ -95,6 +101,16 @@ namespace SPS_Analyzer
             foreach (Fertigung item in fertigungList)
             {
                 fertigungMenu.Items.Add(item.Name);
+            }
+        }
+
+        private void laodLinien(Fertigung fertigung)
+        {
+            Console.WriteLine("LoadLinien()");
+            foreach (Linie item in fertigung.getLinien())
+            {
+                Console.WriteLine(item.Name + " add");
+                linienMenu.Items.Add(item.Name);
             }
         }
 
@@ -125,6 +141,14 @@ namespace SPS_Analyzer
                 if (fertigungMenu.Text.Equals(item.Name))
                 {
                     Fertigung = item;
+                }
+            }
+
+            foreach (Linie item in Fertigung.getLinien())
+            {
+                if (linienMenu.Text.Equals(item.Name))
+                {
+                    Linie = item;
                 }
             }
         }
@@ -181,6 +205,19 @@ namespace SPS_Analyzer
             if (!regex.IsMatch(txtBit.Text))
             {
                 txtBit.Text = "";
+            }
+        }
+
+        private void fertigungMenu_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Console.WriteLine("Fertigung geändert");
+            foreach (Fertigung item in fertigungList)
+            {
+                Console.WriteLine(fertigungMenu.Text + " : "  + item.Name);
+                if (fertigungMenu.Text.Equals(item.Name))
+                {
+                    laodLinien(item);
+                }
             }
         }
     }

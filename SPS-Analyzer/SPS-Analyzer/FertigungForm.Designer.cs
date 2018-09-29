@@ -31,11 +31,14 @@
             this.btnAdd = new MetroFramework.Controls.MetroButton();
             this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
             this.txtName = new MetroFramework.Controls.MetroTextBox();
+            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
+            this.anzahlLinien = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.anzahlLinien)).BeginInit();
             this.SuspendLayout();
             // 
             // btnAdd
             // 
-            this.btnAdd.Location = new System.Drawing.Point(434, 66);
+            this.btnAdd.Location = new System.Drawing.Point(327, 102);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(92, 23);
             this.btnAdd.TabIndex = 11;
@@ -82,17 +85,36 @@
             this.txtName.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtName.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
+            // metroLabel1
+            // 
+            this.metroLabel1.AutoSize = true;
+            this.metroLabel1.Location = new System.Drawing.Point(32, 106);
+            this.metroLabel1.Name = "metroLabel1";
+            this.metroLabel1.Size = new System.Drawing.Size(45, 19);
+            this.metroLabel1.TabIndex = 44;
+            this.metroLabel1.Text = "Linien:";
+            // 
+            // anzahlLinien
+            // 
+            this.anzahlLinien.Location = new System.Drawing.Point(99, 105);
+            this.anzahlLinien.Name = "anzahlLinien";
+            this.anzahlLinien.Size = new System.Drawing.Size(120, 20);
+            this.anzahlLinien.TabIndex = 45;
+            // 
             // FertigungForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(560, 130);
+            this.ClientSize = new System.Drawing.Size(467, 152);
+            this.Controls.Add(this.anzahlLinien);
+            this.Controls.Add(this.metroLabel1);
             this.Controls.Add(this.metroLabel8);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.btnAdd);
             this.Name = "FertigungForm";
             this.Text = "Fertigung Erzeugen";
             this.Load += new System.EventHandler(this.FertigungForm_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.anzahlLinien)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -103,5 +125,7 @@
         private MetroFramework.Controls.MetroButton btnAdd;
         private MetroFramework.Controls.MetroLabel metroLabel8;
         private MetroFramework.Controls.MetroTextBox txtName;
+        private MetroFramework.Controls.MetroLabel metroLabel1;
+        private System.Windows.Forms.NumericUpDown anzahlLinien;
     }
 }

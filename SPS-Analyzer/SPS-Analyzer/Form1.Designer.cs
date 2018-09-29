@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
             this.txtIP = new MetroFramework.Controls.MetroTextBox();
             this.metroLabel3 = new MetroFramework.Controls.MetroLabel();
@@ -108,6 +109,13 @@
             this.metroButton3 = new MetroFramework.Controls.MetroButton();
             this.metroButton2 = new MetroFramework.Controls.MetroButton();
             this.btnAddControl = new MetroFramework.Controls.MetroButton();
+            this.metroTabPage6 = new MetroFramework.Controls.MetroTabPage();
+            this.metroListView4 = new MetroFramework.Controls.MetroListView();
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader5 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnThreadStart = new MetroFramework.Controls.MetroButton();
             this.btnThreadingStop = new MetroFramework.Controls.MetroButton();
             this.btnPLCScan = new MetroFramework.Controls.MetroButton();
@@ -115,6 +123,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.anzeigenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.beendenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.columnLinie = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -123,6 +132,7 @@
             this.metroTabPage3.SuspendLayout();
             this.metroTabPage4.SuspendLayout();
             this.metroTabPage5.SuspendLayout();
+            this.metroTabPage6.SuspendLayout();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -321,9 +331,10 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage3);
             this.metroTabControl1.Controls.Add(this.metroTabPage4);
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
+            this.metroTabControl1.Controls.Add(this.metroTabPage6);
             this.metroTabControl1.Location = new System.Drawing.Point(23, 63);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 4;
+            this.metroTabControl1.SelectedIndex = 2;
             this.metroTabControl1.Size = new System.Drawing.Size(1009, 515);
             this.metroTabControl1.TabIndex = 16;
             this.metroTabControl1.UseSelectable = true;
@@ -980,7 +991,8 @@
             this.columnLocation,
             this.columnIP,
             this.columnBDE,
-            this.columnAvailable});
+            this.columnAvailable,
+            this.columnLinie});
             this.metroListView2.Font = new System.Drawing.Font("Segoe UI", 12F);
             this.metroListView2.FullRowSelect = true;
             this.metroListView2.Location = new System.Drawing.Point(14, 11);
@@ -1010,7 +1022,7 @@
             // 
             // columnBDE
             // 
-            this.columnBDE.Text = "BDE - run";
+            this.columnBDE.Text = "BDE - run:";
             this.columnBDE.Width = 186;
             // 
             // columnAvailable
@@ -1214,6 +1226,65 @@
             this.btnAddControl.UseSelectable = true;
             this.btnAddControl.Click += new System.EventHandler(this.btnAddControl_Click);
             // 
+            // metroTabPage6
+            // 
+            this.metroTabPage6.Controls.Add(this.metroListView4);
+            this.metroTabPage6.HorizontalScrollbarBarColor = true;
+            this.metroTabPage6.HorizontalScrollbarHighlightOnWheel = false;
+            this.metroTabPage6.HorizontalScrollbarSize = 10;
+            this.metroTabPage6.Location = new System.Drawing.Point(4, 38);
+            this.metroTabPage6.Name = "metroTabPage6";
+            this.metroTabPage6.Size = new System.Drawing.Size(1001, 473);
+            this.metroTabPage6.TabIndex = 5;
+            this.metroTabPage6.Text = "Fertigungen";
+            this.metroTabPage6.VerticalScrollbarBarColor = true;
+            this.metroTabPage6.VerticalScrollbarHighlightOnWheel = false;
+            this.metroTabPage6.VerticalScrollbarSize = 10;
+            // 
+            // metroListView4
+            // 
+            this.metroListView4.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1,
+            this.columnHeader2,
+            this.columnHeader3,
+            this.columnHeader4,
+            this.columnHeader5});
+            this.metroListView4.Font = new System.Drawing.Font("Segoe UI", 12F);
+            this.metroListView4.FullRowSelect = true;
+            this.metroListView4.Location = new System.Drawing.Point(16, 7);
+            this.metroListView4.Name = "metroListView4";
+            this.metroListView4.OwnerDraw = true;
+            this.metroListView4.Size = new System.Drawing.Size(968, 459);
+            this.metroListView4.TabIndex = 5;
+            this.metroListView4.UseCompatibleStateImageBehavior = false;
+            this.metroListView4.UseSelectable = true;
+            this.metroListView4.View = System.Windows.Forms.View.Tile;
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Fehler:";
+            this.columnHeader1.Width = 288;
+            // 
+            // columnHeader2
+            // 
+            this.columnHeader2.Text = "Fertigung:";
+            this.columnHeader2.Width = 172;
+            // 
+            // columnHeader3
+            // 
+            this.columnHeader3.Text = "Steuerung:";
+            this.columnHeader3.Width = 162;
+            // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "Datum:";
+            this.columnHeader4.Width = 150;
+            // 
+            // columnHeader5
+            // 
+            this.columnHeader5.Text = "Zuletzt:";
+            this.columnHeader5.Width = 174;
+            // 
             // btnThreadStart
             // 
             this.btnThreadStart.Enabled = false;
@@ -1266,12 +1337,19 @@
             this.anzeigenToolStripMenuItem.Name = "anzeigenToolStripMenuItem";
             this.anzeigenToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.anzeigenToolStripMenuItem.Text = "Anzeigen";
+            this.anzeigenToolStripMenuItem.Click += new System.EventHandler(this.anzeigenToolStripMenuItem_Click);
             // 
             // beendenToolStripMenuItem
             // 
             this.beendenToolStripMenuItem.Name = "beendenToolStripMenuItem";
             this.beendenToolStripMenuItem.Size = new System.Drawing.Size(123, 22);
             this.beendenToolStripMenuItem.Text = "Beenden";
+            this.beendenToolStripMenuItem.Click += new System.EventHandler(this.beendenToolStripMenuItem_Click);
+            // 
+            // columnLinie
+            // 
+            this.columnLinie.Text = "Linie:";
+            this.columnLinie.Width = 105;
             // 
             // Form1
             // 
@@ -1296,6 +1374,7 @@
             this.Controls.Add(this.metroLabel3);
             this.Controls.Add(this.txtIP);
             this.Controls.Add(this.metroLabel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "SPS-Connector";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
@@ -1310,6 +1389,7 @@
             this.metroTabPage3.ResumeLayout(false);
             this.metroTabPage4.ResumeLayout(false);
             this.metroTabPage5.ResumeLayout(false);
+            this.metroTabPage6.ResumeLayout(false);
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -1404,6 +1484,14 @@
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem anzeigenToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem beendenToolStripMenuItem;
+        private MetroFramework.Controls.MetroTabPage metroTabPage6;
+        private MetroFramework.Controls.MetroListView metroListView4;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
+        private System.Windows.Forms.ColumnHeader columnHeader2;
+        private System.Windows.Forms.ColumnHeader columnHeader3;
+        private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ColumnHeader columnHeader5;
+        private System.Windows.Forms.ColumnHeader columnLinie;
     }
 }
 

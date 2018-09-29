@@ -21,8 +21,9 @@ namespace SPS_Analyzer
         private int dbBit;
         private int verbindung;
         private S7Client client;
+        private Linie linie;
 
-        public Steuerung(String ipAdresse, int rack, int slot, String name, Fertigung fertigung, int datenbaustein, int dbByte, int dbBit)
+        public Steuerung(String ipAdresse, int rack, int slot, String name, Fertigung fertigung, int datenbaustein, int dbByte, int dbBit, Linie linie)
         {
             this.fehlerListe = new List<Fehler>();
             this.ipAdresse = ipAdresse;
@@ -33,6 +34,7 @@ namespace SPS_Analyzer
             this.datenbaustein = datenbaustein;
             this.dbByte = dbByte;
             this.dbBit = dbBit;
+            this.linie = linie;
             client = new S7Client();
             this.verbindung = client.ConnectTo(this.ipAdresse, this.rack, this.slot);
         }

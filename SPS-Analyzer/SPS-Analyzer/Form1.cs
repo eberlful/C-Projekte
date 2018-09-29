@@ -103,8 +103,30 @@ namespace SPS_Analyzer
             menuStripControl.Items.Add("Anzeigen");
             //menuStripControl.Items.Add();
             metroListView2.ContextMenuStrip = menuStripControl;
+            menuStripControl.Items[1].Click += anzeigen_Click;
+            menuStripControl.Items[0].Click += loeschen_Click;
+        }
 
-            
+        private void loeschen_Click(object sender, EventArgs e)
+        {
+            ListViewItem item = metroListView2.SelectedItems[0];
+            //Löschen der Steuerung
+        }
+
+        private void anzeigen_Click(object sender, EventArgs e)
+        {
+            ListViewItem item = metroListView2.SelectedItems[0];
+            Console.WriteLine(item.SubItems[0].Text);
+            foreach (Steuerung control in controlList)
+            {
+                Console.WriteLine("Vergleiche: " + control.getName() + " mit " + item.SubItems[0].Text);
+                if (control.getName().Equals(item.SubItems[0].Text))
+                {
+                    Fehleruebersicht fehleruebersicht = new Fehleruebersicht(control);
+                    fehleruebersicht.Show();
+                }
+            }
+            //Fehleruebersicht fehleruebersicht = new Fehleruebersicht();
         }
 
         private void speichernEingaben()
@@ -566,13 +588,17 @@ namespace SPS_Analyzer
             AddControl addControl = new AddControl(fertiungList);
             if (addControl.ShowDialog() == DialogResult.OK)
             {
-                Steuerung control = new Steuerung(addControl.IpAdresse, addControl.Rack, addControl.Slot, addControl.Name, addControl.Fertigung, addControl.Db, addControl.DbByte, addControl.DbBit);
+                Steuerung control = new Steuerung(addControl.IpAdresse, addControl.Rack, addControl.Slot, addControl.Name, addControl.Fertigung, addControl.Db, addControl.DbByte, addControl.DbBit, addControl.Linie);
                 controlList.Add(control);
+                addControl.Fertigung.addSteuerung(control);
+                //Linienliste füllen
+                addControl.Linie.addSteuerung(control);
                 ListViewItem item = new ListViewItem(addControl.Name);
                 item.SubItems.Add(addControl.Fertigung.Name);
                 item.SubItems.Add(addControl.IpAdresse);
                 item.SubItems.Add("DB" + addControl.Db + ".DBX" + addControl.DbByte + "." + addControl.DbBit);
                 item.SubItems.Add(control.checkOnline().ToString());
+                item.SubItems.Add(addControl.Linie.Name);
                 //item.SubItems.Add();
                 metroListView2.Items.Add(item);
             }
@@ -650,7 +676,7 @@ namespace SPS_Analyzer
             
             if (fertigungForm.ShowDialog() == DialogResult.OK)
             {
-                Fertigung fertigung = new Fertigung(fertigungForm.Name);
+                Fertigung fertigung = new Fertigung(fertigungForm.Name, fertigungForm.Number);
                 fertiungList.Add(fertigung);
             }
         }
@@ -713,6 +739,16 @@ namespace SPS_Analyzer
         private void notifyIcon1_MouseDoubleClick(object sender, MouseEventArgs e)
         {
             this.WindowState = FormWindowState.Normal;
+        }
+
+        private void anzeigenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
+        }
+
+        private void beendenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //this.Close();
         }
     }
 }
