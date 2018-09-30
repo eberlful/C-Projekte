@@ -28,6 +28,7 @@ namespace SPS_Analyzer
         private List<Steuerung> controlList;
         private List<Fertigung> fertiungList;
         private Thread[] threadList;
+        private DateTime[] dateList;
 
         public int anzahlEinträge = 0;
         public string cpuFile = @"cpu.xml";
@@ -694,6 +695,7 @@ namespace SPS_Analyzer
                 else
                 {
                     threadList = new Thread[fertiungList.Count];
+                    dateList = new DateTime[fertiungList.Count];
                     int i = 0;
                     foreach (Fertigung item in fertiungList)
                     {
@@ -703,8 +705,9 @@ namespace SPS_Analyzer
                         //thread.Start(item);
                         if (item.getSteuerungen().Count > 0)
                         {
-                            Thread thread = new Thread(delegate () { this.threadFertigung(item); });
+                            Thread thread = new Thread(delegate () { this.threadFertigung(item, i); });
                             thread.Start();
+                            Console.WriteLine("Thread " + i + " gestartet");
                             threadList[i] = thread;
                             i++;
                             btnStart.Enabled = false;
@@ -723,10 +726,27 @@ namespace SPS_Analyzer
             }
         }
 
-        private void threadFertigung(Fertigung fertigung)
-        {
+        public object objekt = new object();
 
-            Console.WriteLine(fertigung.Name);
+        private void threadFertigung(Fertigung fertigung , int index)
+        {
+            while (true)
+            {
+                dateList[index] = DateTime.Now;
+                foreach (Steuerung item in fertigung.getSteuerungen())
+                {
+                    Console.WriteLine(item.getName());
+                }
+                Console.WriteLine("Thread " + fertigung.Name + " gestartet");
+                lock(objekt){
+                    if ((dateList[index].Millisecond + akuRate) < DateTime.Now.Millisecond)
+                    {
+                        Thread.Sleep(DateTime.Now.Millisecond - (dateList[index].Millisecond + akuRate));
+                    }
+                }
+                
+                //Thread.Sleep(1000);
+            }
         }
 
         private void metroButton7_Click(object sender, EventArgs e)
