@@ -92,6 +92,7 @@
             this.columnIP = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnBDE = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnAvailable = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnLinie = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.metroTabPage4 = new MetroFramework.Controls.MetroTabPage();
             this.metroListView3 = new MetroFramework.Controls.MetroListView();
             this.columnHeaderFehler = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -123,7 +124,7 @@
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.anzeigenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.beendenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.columnLinie = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.btnStopp = new MetroFramework.Controls.MetroButton();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -334,7 +335,7 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage6);
             this.metroTabControl1.Location = new System.Drawing.Point(23, 63);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 2;
+            this.metroTabControl1.SelectedIndex = 4;
             this.metroTabControl1.Size = new System.Drawing.Size(1009, 515);
             this.metroTabControl1.TabIndex = 16;
             this.metroTabControl1.UseSelectable = true;
@@ -1030,6 +1031,11 @@
             this.columnAvailable.Text = "Verfügbar:";
             this.columnAvailable.Width = 155;
             // 
+            // columnLinie
+            // 
+            this.columnLinie.Text = "Linie:";
+            this.columnLinie.Width = 105;
+            // 
             // metroTabPage4
             // 
             this.metroTabPage4.Controls.Add(this.metroListView3);
@@ -1091,6 +1097,7 @@
             // 
             // metroTabPage5
             // 
+            this.metroTabPage5.Controls.Add(this.btnStopp);
             this.metroTabPage5.Controls.Add(this.btnNeueFertigung);
             this.metroTabPage5.Controls.Add(this.metroButton8);
             this.metroTabPage5.Controls.Add(this.metroButton7);
@@ -1346,10 +1353,18 @@
             this.beendenToolStripMenuItem.Text = "Beenden";
             this.beendenToolStripMenuItem.Click += new System.EventHandler(this.beendenToolStripMenuItem_Click);
             // 
-            // columnLinie
+            // btnStopp
             // 
-            this.columnLinie.Text = "Linie:";
-            this.columnLinie.Width = 105;
+            this.btnStopp.FontSize = MetroFramework.MetroButtonSize.Tall;
+            this.btnStopp.Highlight = true;
+            this.btnStopp.Location = new System.Drawing.Point(805, 156);
+            this.btnStopp.Name = "btnStopp";
+            this.btnStopp.Size = new System.Drawing.Size(183, 137);
+            this.btnStopp.Style = MetroFramework.MetroColorStyle.Blue;
+            this.btnStopp.TabIndex = 21;
+            this.btnStopp.Text = "Stopp";
+            this.btnStopp.UseSelectable = true;
+            this.btnStopp.Click += new System.EventHandler(this.btnStopp_Click);
             // 
             // Form1
             // 
@@ -1492,6 +1507,7 @@
         private System.Windows.Forms.ColumnHeader columnHeader4;
         private System.Windows.Forms.ColumnHeader columnHeader5;
         private System.Windows.Forms.ColumnHeader columnLinie;
+        private MetroFramework.Controls.MetroButton btnStopp;
     }
 }
 

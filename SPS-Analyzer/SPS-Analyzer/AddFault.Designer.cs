@@ -202,6 +202,7 @@
             this.checkBoxDB.TabIndex = 50;
             this.checkBoxDB.Text = "Datenbit";
             this.checkBoxDB.UseVisualStyleBackColor = true;
+            this.checkBoxDB.CheckedChanged += new System.EventHandler(this.checkBoxDB_CheckedChanged);
             // 
             // checkBoxM
             // 
@@ -212,6 +213,7 @@
             this.checkBoxM.TabIndex = 51;
             this.checkBoxM.Text = "Merker";
             this.checkBoxM.UseVisualStyleBackColor = true;
+            this.checkBoxM.CheckedChanged += new System.EventHandler(this.checkBoxM_CheckedChanged);
             // 
             // txtDB
             // 

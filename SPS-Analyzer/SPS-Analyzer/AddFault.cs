@@ -136,5 +136,18 @@ namespace SPS_Analyzer
                 txtNummer.Text = "";
             }
         }
+
+        private void checkBoxM_CheckedChanged(object sender, EventArgs e)
+        {
+            txtDBByte.Text = "0";
+            txtDBBit.Text = "0";
+            txtDB.Text = "0";
+        }
+
+        private void checkBoxDB_CheckedChanged(object sender, EventArgs e)
+        {
+            txtMerkerBit.Text = "0";
+            txtMerkerByte.Text = "0";
+        }
     }
 }

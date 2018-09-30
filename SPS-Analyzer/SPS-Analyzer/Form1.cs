@@ -80,6 +80,7 @@ namespace SPS_Analyzer
             btnThreadStart.Visible = false;
             btnCPURun.Enabled = false;
             btnCPURun.Visible = false;
+            btnStopp.Enabled = false;
             //metroTabControl1.Enabled = false;
             //metroTabControl1.Visible = false;
             metroTabPage1.Enabled = false;
@@ -94,8 +95,9 @@ namespace SPS_Analyzer
             //ip = Properties.Settings.Default.ip;
             lblStatus.Text = "";
             //GetIPv4();
-            IPAddress adr = GetIPv4();
-            ipShare(adr);
+            //Änderung 30.09.2018
+            //IPAddress adr = GetIPv4();
+            //ipShare(adr);
             controlList = new List<Steuerung>();
             menuStripControl = new ContextMenuStrip();
             //menuStripControl += menuStrip1_ItemClicked;
@@ -687,7 +689,7 @@ namespace SPS_Analyzer
             {
                 if (fertiungList.Count == 0)
                 {
-                    MetroFramework.MetroMessageBox.Show(this, "Es wurde keine Fertiung erzeugt", "Thread-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MetroFramework.MetroMessageBox.Show(this, "Es wurde keine Fertiung erzeugt", "Threaderzeugungs-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 }
                 else
                 {
@@ -699,10 +701,19 @@ namespace SPS_Analyzer
                         //ParameterizedThreadStart pts = new ParameterizedThreadStart(this.threadFertigung);
                         //System.Threading.Thread thread = new System.Threading.Thread(new System.Threading.ThreadStart(threadFertigung));
                         //thread.Start(item);
-                        Thread thread = new Thread(delegate () { this.threadFertigung(item); });
-                        thread.Start();
-                        threadList[i] = thread;
-                        i++;
+                        if (item.getSteuerungen().Count > 0)
+                        {
+                            Thread thread = new Thread(delegate () { this.threadFertigung(item); });
+                            thread.Start();
+                            threadList[i] = thread;
+                            i++;
+                            btnStart.Enabled = false;
+                            btnStopp.Enabled = true;
+                        }
+                        else
+                        {
+                            MetroFramework.MetroMessageBox.Show(this, "Es wurde keine Steuerung in der Fertigung " + item.Name + " gefunden", "Threaderzeugungs-Fehler", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        }
                     }
                 }
             }
@@ -748,7 +759,19 @@ namespace SPS_Analyzer
 
         private void beendenToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //this.Close();
+            this.Close();
+        }
+
+        private void btnStopp_Click(object sender, EventArgs e)
+        {
+            if (threadList.Length > 0)
+            {
+                foreach (Thread item in threadList)
+                {
+                    //item.Suspend();
+                    item.Abort();
+                }
+            }
         }
     }
 }
