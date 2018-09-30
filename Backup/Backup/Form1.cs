@@ -53,6 +53,8 @@ namespace Backup
             try
             {             
                 metroProgressBar1.Visible = false;
+                button1.Visible = false;
+                button1.Enabled = false;
                 metroTextBox1.Text = Properties.Settings.Default.quellVerzeichnis;
                 metroTextBox2.Text = Properties.Settings.Default.zielVerzeichnis;
                 quellePfad = Properties.Settings.Default.quellVerzeichnis;

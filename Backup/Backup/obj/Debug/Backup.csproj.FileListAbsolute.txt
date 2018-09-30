@@ -37,3 +37,17 @@ C:\Users\test\Desktop\Backup\Backup\obj\Debug\Backup.Form1.resources
 C:\Users\test\Desktop\Backup\Backup\obj\Debug\Backup.Ladeform.resources
 C:\Users\test\Desktop\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
 C:\Users\test\Desktop\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\Backup.exe.config
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\Backup.exe
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\Backup.pdb
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\MetroFramework.Design.dll
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\MetroFramework.dll
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.csprojResolveAssemblyReference.cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.Form1.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.Ladeform.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.Properties.Resources.resources
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.csproj.GenerateResource.Cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.csproj.CoreCompileInputs.cache
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.exe
+C:\Users\marku\OneDrive\Desktop\C-Projekte\Backup\Backup\obj\Debug\Backup.pdb
