@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace SPS_Analyzer
 {
@@ -25,6 +26,7 @@ namespace SPS_Analyzer
         private String pfadFehlerBehebung;
         // Muss noch implementiert werden
         private DateTime last;
+        private ListViewItem listViewItem;
 
         public Fehler(Steuerung clientST, bool ueberwachung, int db, int dbByte, int dbBit, int art, int merkerByte, int merkerBit, String fehlertext, String fehlername, int fehlernummer)
         {
@@ -138,6 +140,12 @@ namespace SPS_Analyzer
         {
             get { return merkerBit; }
             set { merkerBit = value; }
+        }
+
+        public ListViewItem ListViewItem
+        {
+            get { return listViewItem; }
+            set { listViewItem = value; }
         }
     }
 }

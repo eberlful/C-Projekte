@@ -36,6 +36,7 @@
             this.last = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.nummer = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnAnalyze = new MetroFramework.Controls.MetroButton();
+            this.btnOnline = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // listViewFehler
@@ -90,7 +91,7 @@
             // 
             // btnAnalyze
             // 
-            this.btnAnalyze.Location = new System.Drawing.Point(947, 21);
+            this.btnAnalyze.Location = new System.Drawing.Point(947, 638);
             this.btnAnalyze.Name = "btnAnalyze";
             this.btnAnalyze.Size = new System.Drawing.Size(92, 23);
             this.btnAnalyze.TabIndex = 9;
@@ -98,11 +99,22 @@
             this.btnAnalyze.UseSelectable = true;
             this.btnAnalyze.Click += new System.EventHandler(this.btnAnalyze_Click);
             // 
+            // btnOnline
+            // 
+            this.btnOnline.Location = new System.Drawing.Point(849, 638);
+            this.btnOnline.Name = "btnOnline";
+            this.btnOnline.Size = new System.Drawing.Size(92, 23);
+            this.btnOnline.TabIndex = 10;
+            this.btnOnline.Text = "Online";
+            this.btnOnline.UseSelectable = true;
+            this.btnOnline.Click += new System.EventHandler(this.btnOnline_Click);
+            // 
             // Fehleruebersicht
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1062, 659);
+            this.ClientSize = new System.Drawing.Size(1065, 684);
+            this.Controls.Add(this.btnOnline);
             this.Controls.Add(this.btnAnalyze);
             this.Controls.Add(this.listViewFehler);
             this.Name = "Fehleruebersicht";
@@ -122,5 +134,6 @@
         private System.Windows.Forms.ColumnHeader last;
         private System.Windows.Forms.ColumnHeader nummer;
         private MetroFramework.Controls.MetroButton btnAnalyze;
+        private MetroFramework.Controls.MetroButton btnOnline;
     }
 }

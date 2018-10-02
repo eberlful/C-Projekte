@@ -5,6 +5,7 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -13,7 +14,7 @@ namespace SPS_Analyzer
     public partial class Fehleruebersicht : MetroFramework.Forms.MetroForm
     {
         private Steuerung control;
-
+        private Thread myThread;
         public Fehleruebersicht(Steuerung control)
         {
             this.control = control;
@@ -38,8 +39,49 @@ namespace SPS_Analyzer
         private void btnAnalyze_Click(object sender, EventArgs e)
         {
             ListView.SelectedListViewItemCollection selectItems = listViewFehler.SelectedItems;
-            AnalyzeFehler analyze = new AnalyzeFehler(selectItems);
+            List<Fehler> fehler = new List<Fehler>();
+            foreach (ListViewItem item in selectItems)
+            {
+                foreach (Fehler fehl in control.getFehlerListe())
+                {
+                    if (fehl.ListViewItem == item)
+                    {
+                        fehler.Add(fehl);
+                    }
+                }
+            }
+            AnalyzeFehler analyze = new AnalyzeFehler(selectItems, fehler);
             analyze.Show();
+        }
+
+        private void btnOnline_Click(object sender, EventArgs e)
+        {
+            ListView.SelectedListViewItemCollection selectItems = listViewFehler.SelectedItems;
+            if (selectItems.Count > 0 && selectItems != null)
+            {
+                myThread = new Thread(delegate () { this.threadStart(selectItems); });
+            }
+        }
+
+        private void threadStart(ListView.SelectedListViewItemCollection collection)
+        {
+            try
+            {
+                foreach (Fehler fehler in control.getFehlerListe())
+                {
+                    foreach (ListViewItem item in collection)
+                    {
+                        if (item == fehler.ListViewItem)
+                        {
+                            item.SubItems[1].Text = fehler.checkZustand().ToString();
+                        }
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MetroFramework.MetroMessageBox.Show(this, ex.Message + "\n" + ex.StackTrace, "Fehler-Onlinethread", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

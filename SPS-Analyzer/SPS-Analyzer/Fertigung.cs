@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace SPS_Analyzer
 {
@@ -11,7 +12,7 @@ namespace SPS_Analyzer
         private List<Steuerung> listeSteuerungen = new List<Steuerung>();
         private List<Linie> linien = new List<Linie>();
         private String name;
-
+        private ListViewItem listViewItem;
         public Fertigung(String name, int anzahlLinien)
         {
             this.name = name;

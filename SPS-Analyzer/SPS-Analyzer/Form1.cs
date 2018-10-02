@@ -602,6 +602,7 @@ namespace SPS_Analyzer
                 item.SubItems.Add("DB" + addControl.Db + ".DBX" + addControl.DbByte + "." + addControl.DbBit);
                 item.SubItems.Add(control.checkOnline().ToString());
                 item.SubItems.Add(addControl.Linie.Name);
+                control.ListViewItem = item;
                 //item.SubItems.Add();
                 metroListView2.Items.Add(item);
             }
@@ -735,6 +736,21 @@ namespace SPS_Analyzer
                 dateList[index] = DateTime.Now;
                 foreach (Steuerung item in fertigung.getSteuerungen())
                 {
+                    item.loadFrame(this);
+                    item.checkZustand();
+                    //Änderung des Zustandes -> ListViewItem aktuallisieren
+                    if (item.Run != item.RunLast)
+                    {
+                        item.ListViewItem.SubItems[3].Text = item.Run.ToString();
+                    }
+                    if (item.Run)
+                    {
+                        //Einstellung abfragen NZE
+                    }
+                    else
+                    {
+                        //Fehlertabelle listen
+                    }
                     Console.WriteLine(item.getName());
                 }
                 Console.WriteLine("Thread " + fertigung.Name + " gestartet");

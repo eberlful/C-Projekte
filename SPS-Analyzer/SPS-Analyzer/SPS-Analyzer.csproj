@@ -108,6 +108,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Linie.cs" />
+    <Compile Include="Logger.cs" />
     <Compile Include="PLCScan.cs">
       <SubType>Form</SubType>
     </Compile>
