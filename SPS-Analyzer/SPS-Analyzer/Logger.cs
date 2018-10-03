@@ -61,7 +61,15 @@ namespace SPS_Analyzer
 
         public static void closeStatic()
         {
-            writerStatic.Close();
+            try
+            {
+                writerStatic.Close();
+            }
+            catch (Exception ex)
+            {
+                MetroFramework.MetroMessageBox.Show(frameStatic, ex.Message + "\n" + ex.StackTrace, "Fehler Logger");
+            }
+            
         }
 
         public void write(String text)
@@ -71,7 +79,15 @@ namespace SPS_Analyzer
 
         public static void writeStatic(String text)
         {
-            writerStatic = File.AppendText(text);
+            try
+            {
+                writerStatic = File.AppendText(text);
+            }
+            catch (Exception ex)
+            {
+                MetroFramework.MetroMessageBox.Show(frameStatic, ex.Message + "\n" + ex.StackTrace, "Fehler Logger");
+                Console.WriteLine(ex.Message + "\n" + ex.StackTrace);
+            }
         }
     }
 }

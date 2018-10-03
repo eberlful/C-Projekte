@@ -14,6 +14,7 @@ using System.Text.RegularExpressions;
 using System.Net;
 using System.Threading;
 using System.Collections;
+using Tulpep.NotificationWindow;
 
 namespace SPS_Analyzer
 {
@@ -41,6 +42,8 @@ namespace SPS_Analyzer
         public bool verbindung = false;
         public bool ueberwachung = false;
         private ContextMenuStrip menuStripControl;
+        //public static Logger logger;
+        //private ListViewItem listViewItem;
 
         /*
          * Einstellungen, die über den Button Einstellungen übergeben werden
@@ -108,6 +111,7 @@ namespace SPS_Analyzer
             metroListView2.ContextMenuStrip = menuStripControl;
             menuStripControl.Items[1].Click += anzeigen_Click;
             menuStripControl.Items[0].Click += loeschen_Click;
+            Logger.startLadder("log.txt", Form1.ActiveForm);
         }
 
         private void loeschen_Click(object sender, EventArgs e)
@@ -603,6 +607,7 @@ namespace SPS_Analyzer
                 item.SubItems.Add(control.checkOnline().ToString());
                 item.SubItems.Add(addControl.Linie.Name);
                 control.ListViewItem = item;
+                //listViewItem = item;
                 //item.SubItems.Add();
                 metroListView2.Items.Add(item);
             }
@@ -630,11 +635,13 @@ namespace SPS_Analyzer
 
         private void metroButton3_Click(object sender, EventArgs e)
         {
+            //listViewItem.SubItems[0].Text = "lfa";
             AddFault addFault = new AddFault(controlList);
             if (addFault.ShowDialog() == DialogResult.OK)
             {
                 
             }
+
         }
 
         private void metroListView2_MouseDoubleClick(object sender, MouseEventArgs e)
@@ -663,6 +670,8 @@ namespace SPS_Analyzer
                 dbIPAdresse = einstellungen.IpDB;
                 dbName = einstellungen.DbNamen;
                 akuRate = einstellungen.AkuRate;
+                //Logger
+                //logger.write("")
                 //Lokal Speichern
                 Properties.Settings.Default.dbAktiv = dbAktiv;
                 Properties.Settings.Default.dbLocalHost = dbLocalHost;
@@ -687,6 +696,12 @@ namespace SPS_Analyzer
                 item.SubItems.Add("0");
                 fertigung.ListViewItem = item;
                 metroListView4.Items.Add(item);
+                Logger.writeStatic(DateTime.Now.ToString() + ": Neue Fertiung -> Name: " + fertigungForm.Name + " , Linie: " + fertigungForm.Number);
+                PopupNotifier popup = new PopupNotifier();
+                popup.Image = Properties.Resources.info;
+                popup.TitleText = "Neue Fertiung";
+                popup.ContentText = fertigungForm.Name + " mit " + fertigungForm.Number.ToString() + " erstellt.";
+                popup.Popup();
             }
         }
 

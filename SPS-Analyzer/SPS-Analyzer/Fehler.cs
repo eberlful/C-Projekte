@@ -56,6 +56,8 @@ namespace SPS_Analyzer
             } else
             {
                 zustand = false;
+                Exception ex = new Exception();
+                throw ex;
                 return false;
             }
         }

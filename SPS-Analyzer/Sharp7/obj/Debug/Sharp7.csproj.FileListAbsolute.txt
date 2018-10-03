@@ -16,3 +16,4 @@ C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.csproj.CoreCompileInputs.cache
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.dll
 C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\Sharp7\obj\Debug\Sharp7.pdb
+C:\Users\marku\OneDrive\Desktop\C-Projekte\SPS-Analyzer\Sharp7\bin\Debug\Tulpep.NotificationWindow.dll

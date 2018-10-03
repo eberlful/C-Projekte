@@ -67,16 +67,19 @@ namespace SPS_Analyzer
         {
             try
             {
-                foreach (Fehler fehler in control.getFehlerListe())
+                while (true)
                 {
-                    foreach (ListViewItem item in collection)
+                    foreach (Fehler fehler in control.getFehlerListe())
                     {
-                        if (item == fehler.ListViewItem)
+                        foreach (ListViewItem item in collection)
                         {
-                            item.SubItems[1].Text = fehler.checkZustand().ToString();
+                            if (item == fehler.ListViewItem)
+                            {
+                                item.SubItems[1].Text = fehler.checkZustand().ToString();
+                            }
                         }
                     }
-                }
+                } 
             }
             catch (Exception ex)
             {
