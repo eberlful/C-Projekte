@@ -37,6 +37,8 @@
             this.nummer = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnAnalyze = new MetroFramework.Controls.MetroButton();
             this.btnOnline = new MetroFramework.Controls.MetroButton();
+            this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
+            this.txtSuche = new MetroFramework.Controls.MetroTextBox();
             this.SuspendLayout();
             // 
             // listViewFehler
@@ -109,11 +111,52 @@
             this.btnOnline.UseSelectable = true;
             this.btnOnline.Click += new System.EventHandler(this.btnOnline_Click);
             // 
+            // metroLabel8
+            // 
+            this.metroLabel8.AutoSize = true;
+            this.metroLabel8.Location = new System.Drawing.Point(23, 642);
+            this.metroLabel8.Name = "metroLabel8";
+            this.metroLabel8.Size = new System.Drawing.Size(46, 19);
+            this.metroLabel8.TabIndex = 45;
+            this.metroLabel8.Text = "Suche:";
+            // 
+            // txtSuche
+            // 
+            // 
+            // 
+            // 
+            this.txtSuche.CustomButton.Image = null;
+            this.txtSuche.CustomButton.Location = new System.Drawing.Point(298, 1);
+            this.txtSuche.CustomButton.Name = "";
+            this.txtSuche.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.txtSuche.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
+            this.txtSuche.CustomButton.TabIndex = 1;
+            this.txtSuche.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
+            this.txtSuche.CustomButton.UseSelectable = true;
+            this.txtSuche.CustomButton.Visible = false;
+            this.txtSuche.Lines = new string[0];
+            this.txtSuche.Location = new System.Drawing.Point(75, 642);
+            this.txtSuche.MaxLength = 32767;
+            this.txtSuche.Name = "txtSuche";
+            this.txtSuche.PasswordChar = '\0';
+            this.txtSuche.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtSuche.SelectedText = "";
+            this.txtSuche.SelectionLength = 0;
+            this.txtSuche.SelectionStart = 0;
+            this.txtSuche.ShortcutsEnabled = true;
+            this.txtSuche.Size = new System.Drawing.Size(320, 23);
+            this.txtSuche.TabIndex = 44;
+            this.txtSuche.UseSelectable = true;
+            this.txtSuche.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            this.txtSuche.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
             // Fehleruebersicht
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1065, 684);
+            this.Controls.Add(this.metroLabel8);
+            this.Controls.Add(this.txtSuche);
             this.Controls.Add(this.btnOnline);
             this.Controls.Add(this.btnAnalyze);
             this.Controls.Add(this.listViewFehler);
@@ -121,6 +164,7 @@
             this.Text = "Fehlerübersicht";
             this.Load += new System.EventHandler(this.Fehleruebersicht_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -135,5 +179,7 @@
         private System.Windows.Forms.ColumnHeader nummer;
         private MetroFramework.Controls.MetroButton btnAnalyze;
         private MetroFramework.Controls.MetroButton btnOnline;
+        private MetroFramework.Controls.MetroLabel metroLabel8;
+        private MetroFramework.Controls.MetroTextBox txtSuche;
     }
 }

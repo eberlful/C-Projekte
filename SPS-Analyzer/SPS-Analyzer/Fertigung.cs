@@ -46,6 +46,12 @@ namespace SPS_Analyzer
             get { return name; }
         }
 
+        public ListViewItem ListViewItem
+        {
+            get { return listViewItem; }
+            set { listViewItem = value; }
+        }
+
         public List<Linie> getLinien()
         {
             return this.linien;

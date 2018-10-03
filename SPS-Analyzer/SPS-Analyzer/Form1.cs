@@ -682,6 +682,11 @@ namespace SPS_Analyzer
             {
                 Fertigung fertigung = new Fertigung(fertigungForm.Name, fertigungForm.Number);
                 fertiungList.Add(fertigung);
+                ListViewItem item = new ListViewItem(fertigungForm.Name);
+                item.SubItems.Add(fertigungForm.Number.ToString());
+                item.SubItems.Add("0");
+                fertigung.ListViewItem = item;
+                metroListView4.Items.Add(item);
             }
         }
 
@@ -806,6 +811,18 @@ namespace SPS_Analyzer
                 {
                     //item.Suspend();
                     item.Abort();
+                }
+            }
+        }
+
+        private void anzeigenToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            ListViewItem item = metroListView4.SelectedItems[0];
+            foreach (Fertigung fertigung in fertiungList)
+            {
+                if (fertigung.ListViewItem == item)
+                {
+
                 }
             }
         }
