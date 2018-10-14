@@ -16,8 +16,8 @@ Crawler, der alle Prüfungen geordnet in der Kursnummer downloaded. Im genauen g
 # SPS-Analyzer
 Programm wird noch erweitert!
 Zurzeit verfügt das Programm um die Funktion mehrere Steuerungen des Typens S7-300 zu beobachten und dies in Echtzeit auszuwerten.
-![Startbild der Anwendung - Backup](https://github.com/eberlful/C-Projekte/blob/master/Backup/BackupMain.PNG?raw=true)
+![Startbild der Anwendung - Backup](https://github.com/eberlful/C-Projekte/blob/master/SPS-Analyzer/MainMenu.PNG?raw=true)
 
 # Single SPS-Analyzer
 Programm zur Beobachtung von Datenbausteinen, Eingänge und Ausgänge von S7-300 Steuerungen. Desweiteren kann man den Status der CPU auf RUN oder STOP setzen und Eingänge, Ausgänge und Datenbausteine ändern.
-![Startbild der Anwendung - Backup](https://github.com/eberlful/C-Projekte/blob/master/Backup/BackupMain.PNG?raw=true)
+![Startbild der Anwendung - Backup](https://github.com/eberlful/C-Projekte/blob/master/Single%20SPS-Analyzer/SPS-Analyzer/MainMenu.PNG?raw=true)
