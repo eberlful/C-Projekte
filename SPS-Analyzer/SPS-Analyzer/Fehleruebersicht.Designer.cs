@@ -39,6 +39,8 @@
             this.btnOnline = new MetroFramework.Controls.MetroButton();
             this.metroLabel8 = new MetroFramework.Controls.MetroLabel();
             this.txtSuche = new MetroFramework.Controls.MetroTextBox();
+            this.txtConsole = new System.Windows.Forms.TextBox();
+            this.btnImport = new MetroFramework.Controls.MetroButton();
             this.SuspendLayout();
             // 
             // listViewFehler
@@ -150,11 +152,31 @@
             this.txtSuche.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtSuche.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
             // 
+            // txtConsole
+            // 
+            this.txtConsole.Location = new System.Drawing.Point(23, 682);
+            this.txtConsole.Multiline = true;
+            this.txtConsole.Name = "txtConsole";
+            this.txtConsole.Size = new System.Drawing.Size(1014, 147);
+            this.txtConsole.TabIndex = 46;
+            // 
+            // btnImport
+            // 
+            this.btnImport.Location = new System.Drawing.Point(549, 642);
+            this.btnImport.Name = "btnImport";
+            this.btnImport.Size = new System.Drawing.Size(120, 23);
+            this.btnImport.TabIndex = 47;
+            this.btnImport.Text = "Katalog importieren";
+            this.btnImport.UseSelectable = true;
+            this.btnImport.Click += new System.EventHandler(this.btnImport_Click);
+            // 
             // Fehleruebersicht
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1065, 684);
+            this.ClientSize = new System.Drawing.Size(1060, 841);
+            this.Controls.Add(this.btnImport);
+            this.Controls.Add(this.txtConsole);
             this.Controls.Add(this.metroLabel8);
             this.Controls.Add(this.txtSuche);
             this.Controls.Add(this.btnOnline);
@@ -181,5 +203,7 @@
         private MetroFramework.Controls.MetroButton btnOnline;
         private MetroFramework.Controls.MetroLabel metroLabel8;
         private MetroFramework.Controls.MetroTextBox txtSuche;
+        private System.Windows.Forms.TextBox txtConsole;
+        private MetroFramework.Controls.MetroButton btnImport;
     }
 }

@@ -36,7 +36,7 @@ namespace SPS_Analyzer
             this.db = db;
             this.dbByte = dbByte;
             this.dbBit = dbBit;
-            this.art = art;
+            this.art = art; // 0 = DB, 1 = M
             this.merkerByte = merkerByte;
             this.merkerBit = merkerBit;
             this.fehlerText = fehlertext;
@@ -44,20 +44,41 @@ namespace SPS_Analyzer
             this.fehlernummer = fehlernummer;
         }
 
-        public bool checkZustand()
+        public bool checkZustand(TextBox txtBox)
         {
             if (client.Connected)
             {
-                byte[] buffer = new byte[1];
-                int result = client.DBRead(db, dbByte, 1, buffer);
-                zustand = Sharp7.S7.GetBitAt(buffer, 0, dbBit);
-                checkUueberwachung();
-                return zustand;
+                if (art == 0)
+                {
+                    byte[] buffer = new byte[1];
+                    int result = client.DBRead(db, dbByte, 1, buffer);
+                    zustand = Sharp7.S7.GetBitAt(buffer, 0, dbBit);
+                    txtBox.AppendText(Environment.NewLine + DateTime.Now.ToString() + "DBRead-Return-Value: " + result.ToString() + " Zustand: " + zustand.ToString() + " Buffer: " + buffer.ToString());
+                    checkUueberwachung();
+                    return zustand;
+                } else if (art == 1)
+                {
+                    byte[] buffer = new byte[1];
+                    int result = client.MBRead(merkerByte,1,buffer);
+                    zustand = Sharp7.S7.GetBitAt(buffer, 0, merkerBit);
+                    txtBox.AppendText(Environment.NewLine + DateTime.Now.ToString() + "MBRead-Return-Value: " + result.ToString() + " Zustand: " + zustand.ToString() + " Buffer: " + buffer.ToString());
+                    //txtBox.AppendText("\n" + DateTime.Now.ToString() + "MBRead-Return-Value: " + result.ToString() + " Zustand: " + zustand.ToString() + " Buffer: " + buffer.ToString());
+                    //txtBox.AppendText("\n" + DateTime.Now.ToString() + "MBRead-Return-Value: " + result.ToString() + " Zustand: " + zustand.ToString() + " Buffer: " + buffer.ToString());
+                    checkUueberwachung();
+                    return zustand;
+                }
+                else
+                {
+                    txtBox.AppendText(Environment.NewLine + DateTime.Now.ToString() + " keine Verbindung");
+                    return false;
+                }
+                
             } else
             {
                 zustand = false;
-                Exception ex = new Exception();
-                throw ex;
+                txtBox.AppendText(Environment.NewLine + DateTime.Now.ToString() + "\n Nicht Online");
+                //Exception ex = new Exception();
+                //throw ex;
                 return false;
             }
         }

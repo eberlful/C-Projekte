@@ -42,7 +42,7 @@ namespace SPS_Analyzer
         public bool verbindung = false;
         public bool ueberwachung = false;
         private ContextMenuStrip menuStripControl;
-        //public static Logger logger;
+        public static Logger logger;
         //private ListViewItem listViewItem;
 
         /*
@@ -111,7 +111,7 @@ namespace SPS_Analyzer
             metroListView2.ContextMenuStrip = menuStripControl;
             menuStripControl.Items[1].Click += anzeigen_Click;
             menuStripControl.Items[0].Click += loeschen_Click;
-            Logger.startLadder("log.txt", Form1.ActiveForm);
+            //logger = new Logger("log.txt", this);
         }
 
         private void loeschen_Click(object sender, EventArgs e)
@@ -696,7 +696,7 @@ namespace SPS_Analyzer
                 item.SubItems.Add("0");
                 fertigung.ListViewItem = item;
                 metroListView4.Items.Add(item);
-                Logger.writeStatic(DateTime.Now.ToString() + ": Neue Fertiung -> Name: " + fertigungForm.Name + " , Linie: " + fertigungForm.Number);
+                //logger.write(DateTime.Now.ToString() + ": Neue Fertiung -> Name: " + fertigungForm.Name + " , Linie: " + fertigungForm.Number);
                 PopupNotifier popup = new PopupNotifier();
                 popup.Image = Properties.Resources.info;
                 popup.TitleText = "Neue Fertiung";
@@ -790,6 +790,7 @@ namespace SPS_Analyzer
             if (dbAktiv)
             {
                 Statistik statistik = new Statistik(dbIPAdresse, dbName);
+                //logger.write(DateTime.Now.ToString() + ": Statistik gestartet -> " + dbIPAdresse + " - " + dbName);
                 statistik.Show();
             }
             else
@@ -815,6 +816,7 @@ namespace SPS_Analyzer
 
         private void beendenToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //logger.close();
             this.Close();
         }
 

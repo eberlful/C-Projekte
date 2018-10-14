@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
@@ -33,6 +34,7 @@ namespace SPS_Analyzer
                 item.SubItems.Add(fault.Last.ToString());
                 item.SubItems.Add(fault.Fehlernummer.ToString());
                 listViewFehler.Items.Add(item);
+                fault.ListViewItem = item;
             }
         }
 
@@ -59,7 +61,26 @@ namespace SPS_Analyzer
             ListView.SelectedListViewItemCollection selectItems = listViewFehler.SelectedItems;
             if (selectItems.Count > 0 && selectItems != null)
             {
-                myThread = new Thread(delegate () { this.threadStart(selectItems); });
+                txtConsole.AppendText(Environment.NewLine + "Die Übergabe der ausgewählten Elemente erfolgte richtig");
+                try
+                {
+                    foreach (Fehler fehler in control.getFehlerListe())
+                    {
+                        fehler.ListViewItem.SubItems[1].Text = fehler.checkZustand(txtConsole).ToString();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MetroFramework.MetroMessageBox.Show(this, ex.Message + "\n" + ex.StackTrace, "Fehler Online");
+                    //throw;
+                }
+                //myThread = new Thread(delegate () { this.threadStart(selectItems); });
+                //txtConsole.AppendText("\n Thread gestartet");
+                //myThread.Start();
+            }
+            else
+            {
+                txtConsole.AppendText(Environment.NewLine + "Falsche Übergabe " + selectItems.Count + " Items, Objekt: " + selectItems);
             }
         }
 
@@ -71,19 +92,67 @@ namespace SPS_Analyzer
                 {
                     foreach (Fehler fehler in control.getFehlerListe())
                     {
-                        foreach (ListViewItem item in collection)
-                        {
-                            if (item == fehler.ListViewItem)
-                            {
-                                item.SubItems[1].Text = fehler.checkZustand().ToString();
-                            }
-                        }
+                        //txtConsole.AppendText("\n" + DateTime.Now.ToString() + " Check: " + fehler.Fehlername);
+                        fehler.ListViewItem.SubItems[1].Text = fehler.checkZustand(txtConsole).ToString();
+                        //foreach (ListViewItem item in collection)
+                        //{
+                        //    if (item == fehler.ListViewItem)
+                        //    {
+                        //        item.SubItems[1].Text = fehler.checkZustand().ToString();
+                        //    }
+                        //}
                     }
+                    Thread.Sleep(500);
                 } 
             }
             catch (Exception ex)
             {
                 MetroFramework.MetroMessageBox.Show(this, ex.Message + "\n" + ex.StackTrace, "Fehler-Onlinethread", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void btnImport_Click(object sender, EventArgs e)
+        {
+            String pfad;
+            OpenFileDialog openFileDialog1 = new OpenFileDialog();
+            openFileDialog1.Filter = "csv Dateien (*.csv)|*.csv|All files (*.*)|*.*";
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                pfad = openFileDialog1.FileName;
+                readCSV(pfad);
+            }  
+        }
+
+        private void readCSV(String pfad)
+        {
+            if (pfad != null)
+            {
+                try
+                {
+                    if (File.Exists(pfad))
+                    {
+                        string[] lines = File.ReadAllLines(pfad);
+
+                        string[][] parts = new string[lines.Length][];
+
+                        for (int i = 0; i < lines.Length; i++)
+                        {
+                            parts[i] = lines[i].Split(';');
+                            foreach (String item in parts[i])
+                            {
+                                txtConsole.AppendText(item + " ");
+                            }
+                            txtConsole.AppendText("\n");
+                        }
+                    }
+
+                    else
+                        throw new FileNotFoundException();
+                }
+                catch (Exception ex)
+                {
+                    MetroFramework.MetroMessageBox.Show(this, ex.Message + "\n" + ex.StackTrace);
+                }
             }
         }
     }

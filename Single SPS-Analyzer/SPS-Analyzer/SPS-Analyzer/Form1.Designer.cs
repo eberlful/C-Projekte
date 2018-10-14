@@ -60,6 +60,7 @@
             this.btnThreadStart = new MetroFramework.Controls.MetroButton();
             this.btnThreadingStop = new MetroFramework.Controls.MetroButton();
             this.btnPLCScan = new MetroFramework.Controls.MetroButton();
+            this.txtDB = new MetroFramework.Controls.MetroTextBox();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.metroTabPage2.SuspendLayout();
@@ -266,6 +267,7 @@
             // 
             // metroTabPage1
             // 
+            this.metroTabPage1.Controls.Add(this.txtDB);
             this.metroTabPage1.Controls.Add(this.chckUeberwachung);
             this.metroTabPage1.Controls.Add(this.txtBit);
             this.metroTabPage1.Controls.Add(this.btnEintrag);
@@ -311,7 +313,7 @@
             this.txtBit.CustomButton.UseSelectable = true;
             this.txtBit.CustomButton.Visible = false;
             this.txtBit.Lines = new string[0];
-            this.txtBit.Location = new System.Drawing.Point(224, 23);
+            this.txtBit.Location = new System.Drawing.Point(256, 23);
             this.txtBit.MaxLength = 1;
             this.txtBit.Name = "txtBit";
             this.txtBit.PasswordChar = '\0';
@@ -352,7 +354,7 @@
             this.txtAdresse.CustomButton.UseSelectable = true;
             this.txtAdresse.CustomButton.Visible = false;
             this.txtAdresse.Lines = new string[0];
-            this.txtAdresse.Location = new System.Drawing.Point(158, 23);
+            this.txtAdresse.Location = new System.Drawing.Point(190, 23);
             this.txtAdresse.MaxLength = 32767;
             this.txtAdresse.Name = "txtAdresse";
             this.txtAdresse.PasswordChar = '\0';
@@ -489,6 +491,36 @@
             this.btnPLCScan.UseSelectable = true;
             this.btnPLCScan.Click += new System.EventHandler(this.btnPLCScan_Click);
             // 
+            // txtDB
+            // 
+            // 
+            // 
+            // 
+            this.txtDB.CustomButton.Image = null;
+            this.txtDB.CustomButton.Location = new System.Drawing.Point(17, 1);
+            this.txtDB.CustomButton.Name = "";
+            this.txtDB.CustomButton.Size = new System.Drawing.Size(21, 21);
+            this.txtDB.CustomButton.Style = MetroFramework.MetroColorStyle.Blue;
+            this.txtDB.CustomButton.TabIndex = 1;
+            this.txtDB.CustomButton.Theme = MetroFramework.MetroThemeStyle.Light;
+            this.txtDB.CustomButton.UseSelectable = true;
+            this.txtDB.CustomButton.Visible = false;
+            this.txtDB.Lines = new string[0];
+            this.txtDB.Location = new System.Drawing.Point(145, 23);
+            this.txtDB.MaxLength = 32767;
+            this.txtDB.Name = "txtDB";
+            this.txtDB.PasswordChar = '\0';
+            this.txtDB.ScrollBars = System.Windows.Forms.ScrollBars.None;
+            this.txtDB.SelectedText = "";
+            this.txtDB.SelectionLength = 0;
+            this.txtDB.SelectionStart = 0;
+            this.txtDB.ShortcutsEnabled = true;
+            this.txtDB.Size = new System.Drawing.Size(39, 23);
+            this.txtDB.TabIndex = 9;
+            this.txtDB.UseSelectable = true;
+            this.txtDB.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            this.txtDB.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -557,6 +589,7 @@
         private MetroFramework.Controls.MetroButton btnThreadingStop;
         private System.Windows.Forms.CheckBox chckUeberwachung;
         private MetroFramework.Controls.MetroButton btnPLCScan;
+        private MetroFramework.Controls.MetroTextBox txtDB;
     }
 }
 

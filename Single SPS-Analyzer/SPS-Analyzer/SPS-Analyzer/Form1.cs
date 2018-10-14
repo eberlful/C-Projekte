@@ -236,6 +236,17 @@ namespace SPS_Analyzer
                     item.SubItems.Add("false");
                     metroListView1.Items.Add(item);
                 }
+                else if (metroRadioButton1.Checked)
+                {
+                    anzahlEinträge++;
+                    item = new ListViewItem("DB" + txtDB.Text + ".DBX" + txtAdresse.Text + "." + txtBit.Text);
+                    item.SubItems.Add("DB");
+                    item.SubItems.Add(txtDB.Text);
+                    item.SubItems.Add(txtAdresse.Text);
+                    item.SubItems.Add("false");
+                    item.SubItems.Add(txtBit.Text);
+                    metroListView1.Items.Add(item);
+                }
                 if (chckUeberwachung.Checked)
                 {
                     ueberwachung = true;
@@ -270,11 +281,12 @@ namespace SPS_Analyzer
                     string  typ = metroListView1.Items[i].SubItems[1].Text;
                     int adr = Int32.Parse(metroListView1.Items[i].SubItems[2].Text);
                     int bt = Int32.Parse(metroListView1.Items[i].SubItems[3].Text);
+                    int akj = Int32.Parse(metroListView1.Items[i].SubItems[5].Text);
                     bool k;
                     if (ueberwachung == true)
                     {
                         bool speicher = bool.Parse(metroListView1.Items[i].SubItems[4].Text);
-                        k = StatusM(typ, adr, bt);
+                        k = StatusM(typ, adr, bt, akj);
                         if (speicher != k)
                         {
                             MetroFramework.MetroMessageBox.Show(this, "Eine Eingabe hat sich verändert", "Überwachung", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -283,7 +295,7 @@ namespace SPS_Analyzer
                     }
                     else
                     {
-                        k = StatusM(typ, adr, bt);
+                        k = StatusM(typ, adr, bt, akj);
                     }
                     
                     metroListView1.Items[i].SubItems[4].Text = k.ToString();
@@ -293,7 +305,7 @@ namespace SPS_Analyzer
             }           
         }
 
-        private bool StatusM(string a, int b ,int c)
+        private bool StatusM(string a, int b ,int c, int d)
         {
             bool w;
             byte[] Buffer = new byte[18];
@@ -310,7 +322,23 @@ namespace SPS_Analyzer
                     //Faktorrechnung einfügen!!!
                     w = S7.GetBitAt(Buffer, 0, c);
                     return w;
-                }              
+                }
+            }
+            else if (a.Equals("DB"))
+            {
+                int result3 = CPU.DBRead(b, c, 4, Buffer);
+
+                if (result3 != 0)
+                {
+                    MetroFramework.MetroMessageBox.Show(this, CPU.ErrorText(result3));
+                }
+                else
+                {
+                    //Fehler weil Zahl nicht höher als Buffer sein darf!!!
+                    //Faktorrechnung einfügen!!!
+                    w = S7.GetBitAt(Buffer, 0, d);
+                    return w;
+                }
             } else
             {
                 int result2 = CPU.EBRead(b, 4, Buffer);
